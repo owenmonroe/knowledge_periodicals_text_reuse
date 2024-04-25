@@ -1,11 +1,10 @@
-title: Title
-email: your-email@example.com
-description: by Authors
+title: Natural Science Text Reuse in Early Victorian Knowledge Periodicals
+email: omonroe2@illinois.edu
+description: by Owen Monroe
 
-baseurl: "/mindoc" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
+url: "https://owenmonroe.github.io/knowledge_periodicals_text_reuse/"
 
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  owenmonroe
 
 # Build settings
 
