@@ -23,38 +23,11 @@ Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat
 
 
 ---
-page: introduction
-title: Image_№1_from_Introduction
-media_type: image
 
-_title: Rook Frontispiece Penny Magazine, January 31 1839
-description: Main page photo
-creator: Owen Monroe Screenshot from Hathi Trust Library PDF
-_date: April 25, 2024
-rights: 
-type: 
-source:
-identifier:
-contributor:
-format:
-credit_(IPTC):
-date_created_(IPTC):
 
-_path: assets/img/penny_rook_img.png
-order: '01'
-layout: image_description
----
-
-_title: Rook Frontispiece Penny Magazine, January 31 1839
-description: Main page photo
-creator: Owen Monroe Screenshot from Hathi Trust Library PDF
-_date: April 25, 2024
-rights: 
-type: 
-source:
-identifier:
-contributor:
-format:
-credit_(IPTC):
-date_created_(IPTC):
+{% assign home_image_rookery = site.mindoc_media | sort: "order" |
+where_exp: "item", "item.page == 'introduction'" | where_exp: "item",
+"item.media_type == 'image'" | where_exp: "item", "item.order == '02'"
+%}
+{% include media.html pages=home_image_rookery %}
 
