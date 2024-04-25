@@ -27,7 +27,7 @@ Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat
 
 {% assign home_image_rookery = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'introduction'" | where_exp: "item",
-"item.media_type == 'image'" | where_exp: "item", "item.order == '02'"
+"item.media_type == 'image'" | where_exp: "item", "item.order == '01'"
 %}
 {% include media.html pages=home_image_rookery %}
 
