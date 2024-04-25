@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bibliography
-number: 006
+number: 008
 ---
 
 # Bibliography
