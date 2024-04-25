@@ -1,11 +1,11 @@
 ---
-page: source
-title: Image_№1_from_Source
+page: source1
+title: Image_№1_from_Source1
 media_type: image
 
-_title: Apple tree
-description: Main page photo
-creator: Unknown
+_title: Mocking Bird Article from Penny Magazine 
+description: from the November 16, 1832, issue of Penny Magazine
+creator: The Society for the Diffusion of Useful Knowledge
 _date: Unknown
 rights: 
 type: 
