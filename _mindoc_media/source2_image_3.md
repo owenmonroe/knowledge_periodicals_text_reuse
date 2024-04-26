@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/chambers_caterpillar_1833.pdf
+_path: assets/img/caterpillar_chambers.jpg
 order: '03'
 layout: image_description
 ---
