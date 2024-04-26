@@ -1,6 +1,6 @@
 ---
 page: source1
-title: Image_№3_from_Source1
+title: Image_№4_from_Source1
 media_type: image
 
 _title: The Mocking-Bird from Penny Magazine, page 2
