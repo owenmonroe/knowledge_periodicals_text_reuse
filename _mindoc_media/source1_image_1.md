@@ -3,7 +3,7 @@ page: source1
 title: Image_№1_from_Source1
 media_type: image
 
-_title: "The Mocking-Bird" from Saturday Magazine 
+_title: The Mocking-Bird from Saturday Magazine 
 description: from the July 13, 1833, issue of Penny Magazine
 creator: The Society for Promoting Christian Knowledge
 _date: Unknown
