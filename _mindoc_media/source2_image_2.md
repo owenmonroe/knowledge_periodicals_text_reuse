@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/caterpillar_saturday_1832.pdf
+_path: assets/img/caterpillar_saturday.jpg
 order: '02'
 layout: image_description
 ---
