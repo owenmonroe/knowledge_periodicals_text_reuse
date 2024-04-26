@@ -1,6 +1,6 @@
 ---
 page: source2
-title: Image_№1_from_Source2
+title: Image_№2_from_Source2
 media_type: image
 
 _title: Lace made by Caterpillars from Saturday Magazine 
