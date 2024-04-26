@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/rook_saturday_1835.pdf
+_path: assets/img/rook_saturday_1835.jpg
 order: '02'
 layout: image_description
 ---
