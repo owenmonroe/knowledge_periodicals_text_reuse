@@ -16,8 +16,8 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/chambers_caterpillar_1833.pdf
-order: '03'
+_path: assets/img/rook_mungo_saturday_1832.pdf
+order: '01'
 layout: image_description
 ---
 
