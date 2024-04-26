@@ -12,7 +12,7 @@ type:
 source:
 identifier:
 contributor:
-format:
+format: ~
 credit_(IPTC):
 date_created_(IPTC):
 
