@@ -1,6 +1,6 @@
 ---
 page: source1
-title: Image_№1_from_Source1
+title: Image_№2_from_Source1
 media_type: image
 
 _title: Mocking Bird Article from Penny Magazine 
@@ -17,7 +17,7 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: assets/img/mockingbird_penny_1833_1-3.pdf
-order: '01'
+order: '02'
 layout: image_description
 ---
 
