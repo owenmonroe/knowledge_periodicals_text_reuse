@@ -27,3 +27,9 @@ number: 002
 
 {% assign mockingbird_penny_2 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '04'" %}
 {% include media.html pages=mockingbird_penny_2 %}
+
+
+# Mocking Bird Penny Magazine Page 3
+
+{% assign mockingbird_penny_3 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '05'" %}
+{% include media.html pages=mockingbird_penny_3 %}
