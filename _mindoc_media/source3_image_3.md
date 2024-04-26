@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/rook_penny_1839_1-3.pdf
+_path: assets/img/rook_penny_1.jpg
 order: '03'
 layout: image_description
 ---
