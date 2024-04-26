@@ -3,7 +3,7 @@ page: source1
 title: Image_№2_from_Source1
 media_type: image
 
-_title: Mocking Bird Article from Penny Magazine 
+_title: 'The Mocking-Bird' from Penny Magazine 
 description: from the November 16, 1832, issue of Penny Magazine
 creator: The Society for the Diffusion of Useful Knowledge
 _date: Unknown
