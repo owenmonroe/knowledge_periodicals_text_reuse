@@ -14,7 +14,7 @@ identifier:
 contributor:
 format:
 credit_(IPTC):
-date_created_(IPTC): ~
+date_created_(IPTC):
 
 _path: assets/img/mockingbird_penny_1.jpg
 order: '03'
