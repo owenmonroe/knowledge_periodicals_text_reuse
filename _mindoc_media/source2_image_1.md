@@ -1,5 +1,5 @@
 ---
-page: source1
+page: source2
 title: Image_№1_from_Source2
 media_type: image
 
