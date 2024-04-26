@@ -17,7 +17,7 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: assets/img/mockingbird_penny_1.pdf
-order: '02'
+order: '03'
 layout: image_description
 ---
 
