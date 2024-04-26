@@ -3,10 +3,10 @@ page: introduction
 title: Image_№1_from_Introduction
 media_type: image
 
-_title: Rook Frontispiece Penny Magazine, January 31 1839
+_title: The Rook from Penny Magazine
 description: Main page photo
-creator: Owen Monroe Screenshot from Hathi Trust Library PDF
-_date: April 25, 2024
+creator: Society for the Diffusion of Useful Knowledge
+_date:  January 31, 1839
 rights: 
 type: 
 source:
@@ -16,15 +16,15 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/penny_rook_img.jpg
+_path: assets/img/rook_penny_1.jpg
 order: '01'
 layout: image_description
 ---
 
-_title: Rook Frontispiece Penny Magazine, January 31 1839
+_title: The Rook from Penny Magazine
 description: Main page photo
-creator: Owen Monroe Screenshot from Hathi Trust Library PDF
-_date: April 25, 2024
+creator: Society for the Diffusion of Useful Knowledge
+_date: January 31, 1839
 rights: 
 type: 
 source:
