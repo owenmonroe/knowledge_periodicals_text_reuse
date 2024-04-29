@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/rook_penny_2.jpg
+_path: /assets/img/rook_penny_2.jpg
 order: '04'
 layout: image_description
 ---
