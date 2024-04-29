@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/mockingbird_saturday_1.jpg
+_path: /assets/img/mockingbird_saturday_1.jpg
 order: '01'
 layout: image_description
 ---
