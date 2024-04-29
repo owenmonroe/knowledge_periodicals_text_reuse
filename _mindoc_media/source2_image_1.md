@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/caterpillar_penny.jpg
+_path: /assets/img/caterpillar_penny.jpg
 order: '01'
 layout: image_description
 ---
