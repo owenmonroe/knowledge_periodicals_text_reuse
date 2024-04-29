@@ -28,7 +28,7 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 "item.media_type == 'image'" | where_exp: "item", "item.order == '03'"
 %}
-{% include media.html pages=rook_penny_3 %}
+{% include media.html pages=rook_penny_1 %}
 
 
 # Rooks Penny Magazine 1839, page 2
