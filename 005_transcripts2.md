@@ -3,3 +3,110 @@ layout: default
 title: Section 2 Transcripts - Caterpillar Lace
 number: 005
 ---
+
+# Section 2 Transcripts: Caterpillar Lace
+This page features transcripts of the text from sources images presented in the "Section 2 Sources: Caterpillar" page of this edition. Reprinted text is in ***bold and italics***
+
+## Caterpillar Lace in _The Penny Magazine_
+### The following transcript is of the entire text of the two full pages of _The Penny Magazine_ June 30, 1832, issue, including the article "Lace Made By Caterpillars."
+
+#### Left Column
+scriptions of manufactures in which it is fitted to be available. An inventor, who has made himself com pletely master of this work, will have obtained a knowledge both of all the principa expedients which have hitherto been employed in mechanics, and of the scientific principles upon which all mechanical devices must depend; and a man so instructed, it may be fairly inferred, will be likely not only to waste but little time in re-discovering what has been already found out, but also to find his efforts in original invention crowned with far more rapid and more satisfying success than would have otherwise attended them. 
+
+From the multiplicity of most interesting subjects of which Mr Babbage has treated the mere enumeration of which would far exceed our limits we select only two specimens of the entertainment to be found in the work. The following account of a foreign manufacture would appear incredible, if we did not know to what singular uses the instincts of animals may be directed: -  
+
+***"_Lace made by Caterpillars._- A most extraordinary species of manufacture, which is in a slight degree connected with copying, has been contrived by an officer of engineers residing at Munich. It consists of lace and veils, with open patterns in them, made entirely by caterpillars. The following is the mode of proceeding adopted:- Having made a  paste of the leaves of the plant, on which the species of caterpillar he employs feeds, he spreads it thinly over a stone, or other flat substance, of the required size. He then, with a camel-hair pencil dipped in olive oil, draws the pattern he wishes the insects to leave open. This stone is then placed in an inclined position, and a considerable number of the caterpillars are placed at the bottom. A peculiar species is chosen, which spins a strong web; and the animals commence at the bottom, eating and spinning their way up to the top, carefully avoiding every part touched by the oil, but devouring every other part of the paste. The extreme lightness of these veils, combined with some strength, truly surprising. One of them, measuring twenty-six and a half inches by seventeen inches, weighed only 1.51 grains, a degree of lightness which will appear more strongly by contrast with other fabrics. One square yard of the substance of which these veils are made weighs four grains and one-third, whilst one square yard of silk gauze weighs one hundred and thirty-seven grains, and one square yard of the finest patent net weighs two hundred and sixty-two grains and a half."***
+
+One of the most important manufactures of our own country is that connected with the Press, in all its various and complicated operations. The following account of the mode in which a great London newspaper is prepared, will be read with interest in all parts of the kingdom :- 
+
+“Another instance of the just application of machinery, even at an increased expense arises where the shortness of time in which the article can be produced, has an important influence on its value. In the publication of our daily newspapers, it frequently happens that the debates in the Houses of Parliament are carried on to three and four o’clock in the morning, that is, to within a very few hours of the time for publication of the newspaper. The speeches must be taken down by reporters, conveyed by them to the establishment of the newspaper, perhaps at the distance of one or two miles, transcribed by them in the office, set up by the compositor, the press corrected, and the papers printed off and distributed before the public can read them. Some of these journals have a circulation of from five to ten thousand daily. Supposing four thousand to be wanted, and that they could be printed only at a rate of five hundred per hour upon one side of the paper (which was the greatest number two journeymen and a boy could take off by the hold hand presses), sixteen hours would be required for printing the complete edition and the news conveyed to the purchasers of the latest portion of the impression would be out of date before they could receive it. To obviate this difficulty, it was often necessary to set up the paper in duplicate, and sometimes when late, in triplicate: but the improvements of the printing-machines  have been so great, that four thousand copies are now printed on one side in an our. 
+
+"The establishments of the Times newspaper is an ex-
+
+#### Right Column
+ample on a large scale of a manufacturing in which the division of Labor, both mental and. Totally. This admirably illustrated, in which also the effect of the domestic economy is well exemplified. It is scarcely imagined by the thousands who read that paper in various quarters of the globe, would have seen of organized activity that factory presents during the whole night, or what a quantity of talent and mechanical skill is put into action for their amusement and information.* Nearly 100 persons are employed in this establishment, and during the session of Parliament at least 12 reporters are constantly attending the Houses of Commons and Lords, each in his turn, after about an hour's work, retiring to translate into ordinary writing. Speech has just heard and noted in shorthand. In the mean time, 50 compositors are constantly at work, some of whom have already set up the beginning, whilst others are committing to type the yet undried manuscript of the continuation of a Speech whose middle portion is traveling to the office in the pocket of the hasty reporter, and whose eloquent conclusions Perhaps. At the very moment making the walls of Saint Stephens vibrate with the applause of its hearers, these congregated types, as fast as they are composed, are passed in portions to other hands, till at the last the scattered fragments of the debate forming. When united with the ordinary matter, 8 and 40 columns reappear in regular order on the platform of the printing press. The hand of man is now too slow for the demands of his curiosity, but the power of steam comes to his assistance. Inc is rapidly supplied to the moving types by the most perfect mechanism for attendants incessantly introduced the edges of large sheets of white paper to the junction of two great rollers, which seemed to devour them with unsated appetite. Other rollers convey them to the type already inked, and having brought them into rapid and successive contact, redeliver them to four other assistants completely printed by the almost momentary touch. Thus, in one hour, 4000 sheets of paper are printed on one side, and an impression of 12,000 copies from above 300,000 movable pieces of metal is produced for the public in six hours." 
+
+_____
+Zoological Society 
+The last monthly report of the Proceedings of the Committee of Science to the Zoological Society contained several facts of general interest. 
+
+The female Puma and the Society's gardens brought forth two young ones on the 2nd of April. The ground color of these is of a paler. Fawn than that of either of the parents, and they are deeply spotted. The eyelids of one of them was partially unclosed on April 9th. The mother, whose temper was always mild, has since become. Remarkably gentle purring when the keeper goes into her den and allowing her young ones to be handled and carried  about without appearing... 
+
+* The author of these pages, with one of his friends, was recently induced to visit this most interesting establishment after midnight during the progress of a very important debate. The place was illuminated with gas, and was light as the day. There was neither nor noise, nor bustle, and the visitors were received with such calm and polite attention, they did not until afterwards become sensible of the inconvenience with such intruders. At a moment of the greatest pressure. Music must occasion nor reflect that the tranquility which they admired was the result of intense and regulated occupation. But the effect of such checks in the current of business will appear on recollecting and as 4000 newspapers are printed off on one side within the hour, every minute is attended with a loss of 66 impressions. The quarter of an hour, therefore, which the strangers may think it not unreasonable to claim the gratification of his curiosity, and to him this time is but a moment, may cause a failure in the delivery of 1000 copies, and disappoint A proportionate number of expectant readers, and some of our distant towns, to which the morning papers are despatched by the earliest and most rapid conveyance of each day. This note is inserted with the further in more general purpose of calling the attention of those, especially foreigners, who are desirous of inspecting our larger manufactories to the chief cause of the difficulty which frequently attends their introduction. When the establishment is very extensive in its departments skillfully arranged, the exclusion of visitors arises not from any illiberal jealousy. You are generally from any desire of concealment, which would in most cases be absurd from this sub. Annual inconvenience and loss of time throughout an entire series of well combined operations, which must be occasioned even by short and casual interruptions.
+
+## Caterpillar Lace in _The Saturday Magazine_
+### The following transcript is of the entire text of the two full pages of _The Saturday Magazine_ August 11, 1832, issue, including the article "Lace Made By Caterpillars."
+
+#### Left Column
+CRAIGMILLAR CASTLE.
+
+This beautiful ruin is situated about 3 miles to the southward of Edinburgh. It stands on a circular, Rocky Hill and commands an extensive prospect on every side comprehending the city of Edinburgh. The distant mountains of the Highlands and the fine arm of the sea called the Firth of Forth. The front of the building is towards the north. Over one of the doors is a car is carved a press and a cask in illusion. It is believed the name of Preston. It was surrounded by a thick rampart, 30 feet high, with parapets and turrets of which considerable part. Means there is an inner court of considerable extent, and there is also a very large outer court on the West side, of which there was erected a Presbyterian meetinghouse in Consequences of the indulgence granted to that persuasion by James the 7th of Scotland. The period. In this castle was built, is not ascertained, which probably arises from the records and other papers they public, Nature respecting Scotland, being lost in their conveyance by sea from London to Edinburgh, when, after having been carried by Cromwell, they were ordered to be restored by Charles the 2nd. But the Rampart, as appears by the inscription upon the gate, was built in 1427. 
+
+The council was for some time the residents of James the 5th when he left Edinburgh on account of the plague. It was taken and part of it demolished by the English in 1543 when Henry the Eighth invaded Scotland in order to compel the young Queen of Scots to marry his son Prince Edward. 
+
+Mary, Queen of Scots resided for some time in this castle after her return from France in 1561. Her French servants took up their abode in a neighbouring village which is yet known by the name of Little France, and an in a room in the castle is still called Queen Mary's Drawing Room. 
+
+The castle and surrounding the state belonged so far back as the year 1374 to the family of Preston. They now belong to the descendants of Sir Thomas Gilmore, the great Scottish lawyer who acquired the property about the time of the revolution. 
+
+_____
+Almost all useful discoveries have been made, not by the brilliancy of genius, but by the diligent direction of the mind to one object in all trades, in all professions. Success can be expected only from undivided attention. 
+
+ #### Right Column
+***Lace Made By Caterpillars.-- A most extraordinary species of manufacture has been contrived by an officer of engineers residing at Munich. It consists of lace and veils with open patterns in them, made entirely by caterpillars. The following is the mode of preceding adopted having made a pace of the leaves of the plant on which the species of Caterpillar he employs feeds, he spreads it thinly over a stone or other flat sub. Instance of the required size. He then, with a camel hair pencil dipped in olive oil, draws the pattern he wishes the insects to leave open. The stone is then placed in an inclined position and a considerable number of the caterpillars are placed at the bottom. A peculiar species is chosen which spins a strong web in. The animals commence at the bottom, eating and spinning their way up to the top, carefully avoiding every part touched by the oil. But devouring every other part of the paste, the extreme lightness of the veils, combined with some strength, is truly surprising. One of them, measuring 26 1/2 by 17 inches, weighed only a grain in the half, a degree of lightness which will appear more strongly by contrast with other fabrics. One square yard of the sub. Sentence of which these veils are made ways four and the third grains, whilst 1 square yard of silk gauze weighs 137 grains and one. Square yard of the finest net weighs 262 1/2 grains.*** 
+ 
+_____
+GRATITUDE AND INGRATITUDE
+Gratitude is a virtue disposing the minds to an inward sense, and an outward acknowledgement that benefit received together with a readiness to return the same or the like, as occasions of the doer of it shall require, and the abilities of the receiver extends to. In gratitude is an insensibility of kindness received without any endeavor either to acknowledge or repay them. In gratitude, citizens throne with pride at its right hand and cruelty at its left. Were these supporters of such a state? You may rest upon this as an unfailing truth that they're neither is nor ever was any person or. Remarkably ungrateful who is not so. He was not also insufferably proud, nor anyone proud who is not equally ungrateful new paragraph In gratitude overlooks all kindnesses, and this is because pride makes it carry its head so high. In gratitude is two base to return a kindness, and too proud to regard it, much like the tops of mountains, buried indeed, but yet lofty, they produce nothing. They feed nobody, they clothe nobody, yet are high in stately, and looked down upon all the world about them. It was ingratitude which put the poniard into Brutus's hand, but it was want of compassion which thrust it into Caesar's heart. Friendship consists properly in mutual offices and a generous strife and alternate acts of kindness. But he who does a kindness, Who ungrateful person sets his seal to a Flint? And sows his seed upon the sand. Upon the former he makes no impression, and from the latter he finds no production. Doctor South 
+
+This Saturday Magazine No. XVI. Being the Supplement for September,
+Os ready for delivery with the present number. Price One Penny.
+And on the 29th Instant will be published. 
+The monthly part for September, Price 6d. 
+Including the supplement. 
+
+London:
+JOHN WILLIAM PARKER, 445. (WEST) STRAND.
+Sold by all Booksellers and Newsvendors in the Kingdom. Hawkers and Dealers in Periodical Publications supplied on wholesale terms by WS ORR Pasternoster-Row G. BERGER Holywell, St. A DOUGLAS, 27, Portman St. Portman Sq. London,
+And by the Publisher's Agents in the following places:-
+
+Aberdeen... Brown and Co. 
+Bath... George. 
+Birmingham... Langbridge. 
+Bristol...Westley and Co. 
+Cambridge... Stevenson.
+Carlisle... Thurnham. 
+Chelmsford... Guy 
+Cheltenham... Lovesy
+Chester... Seacome.
+Chichester... Glover.
+Colchester... Swinborne and Co.
+Derby... Wilkins and Son.
+Devonport... Byers.
+Dublin... Curry Jun. and Co.
+Dundee... Shaw.
+Durham... Andrews.
+Edinburgh... Oliver and Boyd.
+Exeter... Penny and Co. 
+Glasgow... Griffin and Co.
+Gloucester... Jew. 
+Hereford... Child. 
+Hull... Wilson. 
+Lancashire and Cheshire... Banks and Co. Manchester. 
+Lane End... Watts.
+Leeds... Robinson.
+Leicester... Combe.
+Liverpool... Hughes. 
+Macclesfield... Swinnerton. 
+Newcastle-on-Tyne... Finlay & Charlton; Empson. 
+Nottingham... Wright
+Oxford... Slatter. 
+Sheffield... Ridge.
+Salisbury... Brody & Co. 
+Shrewsbury... Eddowes. 
+Sunderland... Marwood
+Whitby... Rogers. 
+Worcester... DeightonSee 
+_____
+C. Richards, Printer, 100 St. Martins Lane, Charing Cross. 
+
+  
