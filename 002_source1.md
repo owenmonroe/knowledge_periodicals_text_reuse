@@ -7,6 +7,7 @@ number: 002
 # Section 1 Sources: The Mocking Bird
 
 The following images are pages that include articles on the mocking bird from _The Saturday Magazine_ and _The Penny Magazine_. Transcripts of these pages are presented in the following page of this edition, "Section 1 Transcripts: The Mocking Bird."
+
 <br/><br/> 
 
 ## The Mocking Bird in _The Saturday Magazine_
