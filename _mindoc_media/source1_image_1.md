@@ -14,7 +14,7 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239709&seq=27
 identifier: Volume p. 15, Digitization #17
 contributor: The Society for Promoting Christian Knowledge
 format: 25 v ill 27 cm, jpg
-credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
+credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
 _path: /assets/img/mockingbird_saturday_1.jpg
@@ -32,6 +32,6 @@ source: Indiana University
 identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239709&seq=27
 identifier: Volume p. 15, Digitization #17
 contributor: The Society for Promoting Christian Knowledge
-format:
-credit_(IPTC): Digitization courtesy of Google, Hathi Trust Digital Library
+format: 25 v ill 27 cm, jpg
+credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
