@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Source 3
+title: Section 3 Sources - Rooks
 number: 004 
 ---
 
