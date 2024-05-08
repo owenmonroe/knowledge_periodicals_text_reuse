@@ -14,7 +14,7 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239683&seq=128
 identifier: Volume p. 120, Digitization #128
 contributor: The Society for Promoting Christian Knowledge
 format: 25 v ill 27 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
 _path: /assets/img/caterpillar_saturday.jpg
@@ -33,5 +33,5 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239683&seq=128
 identifier: Volume p. 120, Digitization #128
 contributor: The Society for Promoting Christian Knowledge
 format: 25 v ill 27 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
