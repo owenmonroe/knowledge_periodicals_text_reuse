@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Section 3 Sources - Rooks
-number: 004 
+number: 006
 ---
 
 # Section 3 Sources: Rooks
