@@ -4,7 +4,7 @@ title: The Source 3
 number: 004 
 ---
 
-# Source 1: Rooks Saturday Magazine 1832
+## Source 1: Rooks Saturday Magazine 1832
 
 {% assign rook_sat_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
@@ -17,7 +17,7 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 
 
 
-# Source 2: Rooks Saturday Magazine 1835
+## Source 2: Rooks Saturday Magazine 1835
 
 {% assign rook_sat_2 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
@@ -30,7 +30,7 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 
 
 
-# Source 3: Rooks Penny Magazine 1839, page 1
+## Source 3: Rooks Penny Magazine 1839, page 1
 
 {% assign rook_penny_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
@@ -43,7 +43,7 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 
 
 
-# Rooks Penny Magazine 1839, page 2
+## Rooks Penny Magazine 1839, page 2
 
 {% assign rook_penny_2 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
@@ -56,7 +56,7 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 
 
 
-# Rooks Penny Magazine 1839, page 3
+## Rooks Penny Magazine 1839, page 3
 
 {% assign rook_penny_3 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
