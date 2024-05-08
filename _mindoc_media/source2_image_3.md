@@ -28,8 +28,7 @@ _date: 1834
 rights: Public Domain
 type: Text
 source: University of California
-identifier: https://babel.hathitrust.org/cgi/pt?id=uc1.l0058474727&seq=332
-identifier: Volume p. 328, Digitization #332
+identifier: https://babel.hathitrust.org/cgi/pt?id=uc1.l0058474727&seq=332 Volume p. 328, Digitization #332
 contributor: W & R Chambers Company
 format: 145 v 27-34 cm, jpg
 credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
