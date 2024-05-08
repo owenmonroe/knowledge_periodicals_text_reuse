@@ -35,7 +35,7 @@ The first two images are consecutive pages from _The Saturday Magazine_ July 13,
 
 
 
-
+<br/><br/> 
 The next three images are consecutive pages from the November 16, 1833, issue of _The Penny Magazine_, pages 443 – 445 in the collected 1833 volume.
 
 
