@@ -21,7 +21,7 @@ where_exp: "item", "item.page == 'source2'" | where_exp: "item",
 %}
 {% include media.html pages=caterpillar_penny_1 %}
 
-
+<br/><br/>
 criptions of manufactures in which it is fitted to be available. An inventor, who has made himself com pletely master of this work, will have obtained a knowledge both of all the principa expedients which have hitherto been employed in mechanics, and of the scientific principles upon which all mechanical devices must depend; and a man so instructed, it may be fairly inferred, will be likely not only to waste but little time in re-discovering what has been already found out, but also to find his efforts in original invention crowned with far more rapid and more satisfying success than would have otherwise attended them. 
 
 From the multiplicity of most interesting subjects of which Mr Babbage has treated the mere enumeration of which would far exceed our limits we select only two specimens of the entertainment to be found in the work. The following account of a foreign manufacture would appear incredible, if we did not know to what singular uses the instincts of animals may be directed: -  
