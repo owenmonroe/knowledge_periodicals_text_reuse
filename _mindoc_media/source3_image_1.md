@@ -28,8 +28,7 @@ _date: 1832
 rights: Public Domain
 type: Text
 source: Harvard University
-identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239683&seq=64
-identifier: Volume p. 56, Digitization #64
+identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239683&seq=64 Volume p. 56, Digitization #64
 contributor: The Society for Promoting Christian Knowledge
 format: 25 v ill 27 cm, jpg
 credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
