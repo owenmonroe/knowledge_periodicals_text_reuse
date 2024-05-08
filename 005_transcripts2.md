@@ -159,7 +159,7 @@ Mrs Madison was esteemed the most thoroughly plight woman in America. Others mig
 
 In order to teach children the right sort of politeness, it must be taught through the agency of a pure motive. They should not be taught to observe and respect the feelings of others for the sake of making 
 
-#### Middle Column
+#### Right Column
 
 themselves pleasing, but merely because it is kind and benevolent to do so.
 
