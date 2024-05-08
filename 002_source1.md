@@ -4,35 +4,61 @@ title: The Source 1
 number: 002
 ---
 
-Source 1: Mocking Bird Saturday Magazine Page 1
+# Section 1: The Mocking-Bird Sources
+
+The following images are articles on the mocking bird from _The Saturday Magazine_ and _The Penny Magazine_. The first two images are consecutive pages from _The Saturday Magazine_ July 13, 1833, issue. These are pages 15 - 16 of the collected 1833 volume. 
+The next three images are consecutive pages from the November 16, 1833, issue of _The Penny Magazine_, pages 443 – 445 in the collected 1833 volume.
+Transcripts of these pages are presented in the following webpage "Section 1 Transcripts: The Mocking Bird"
+
+
 {% assign mockingbird_sat_1 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '01'" %}
 {% include media.html pages=mockingbird_sat_1 %}
 
 
 
 
-Mocking Bird Saturday Magazine Page 2
+
 {% assign mockingbird_sat_2 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '02'" %}
 {% include media.html pages=mockingbird_sat_2 %}
 
 
 
 
-Source 2: Mocking Bird Penny Magazine Page 1
+
+
+
+NEXT NEXT NEXT
+
+
+
+
+
+
+The next three images are consecutive pages from the November 16, 1833, issue of _The Penny Magazine_, pages 443 – 445 in the collected 1833 volume.
+
+
+
+
+
+
+
+
+
+
+
+
 {% assign mockingbird_penny_1 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '03'" %}
 {% include media.html pages=mockingbird_penny_1 %}
 
 
 
 
-Mocking Bird Penny Magazine Page 2
+
 {% assign mockingbird_penny_2 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '04'" %}
 {% include media.html pages=mockingbird_penny_2 %}
 
 
 
-
-# Mocking Bird Penny Magazine Page 3
 
 {% assign mockingbird_penny_3 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '05'" %}
 {% include media.html pages=mockingbird_penny_3 %}
