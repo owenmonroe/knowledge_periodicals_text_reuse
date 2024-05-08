@@ -5,7 +5,15 @@ number: 003
 ---
 
 
-# Section 2 Sources: Caterpillar Lace
+# Section s Sources: Caterpillar Lace
+
+The following images are pages that include articles on caterpillar lace from _The Saturday Magazine_ and _Chambers's Edninburgh Journal_. Transcripts of these pages are presented in the following webpage "Section 2 Transcripts: Caterpillar Lace"
+
+
+## Lace Made by Caterpillars in _The Saturday Magazine_, 1832
+The first image is a page from _The Saturday Magazine_, the August 11, 1832, issue. This is page 56 of the collected 1833 volume. 
+
+
 
 {% assign caterpillar_penny_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source2'" | where_exp: "item",
