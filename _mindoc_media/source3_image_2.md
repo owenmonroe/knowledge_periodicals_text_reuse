@@ -28,8 +28,8 @@ _date: 1835
 rights: Public Domain
 type: Text
 source: Pennsylvania State University
-identifier: https://babel.hathitrust.org/cgi/pt?id=pst.000072262726&seq=39
-contributor: Volume p. 31, Digitization #39
+identifier: https://babel.hathitrust.org/cgi/pt?id=pst.000072262726&seq=39 Volume p. 31, Digitization #39
+contributor: The Sociery for Promoting Christian Knowledge
 format: 25 v ill 7 cm, jpg
 credit_(IPTC): Digitization courtesy Google, Hathi Digital Trust Library
 date_created_(IPTC):
