@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Section 1 Sources: The Mocking Bird
+title: Section 1 Sources - The Mocking Bird
 number: 002
 ---
 
