@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Section 2 Sources - Caterpillar Lace
-number: 003
+number: 004
 ---
 
 
