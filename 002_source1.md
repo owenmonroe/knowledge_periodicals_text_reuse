@@ -7,7 +7,7 @@ number: 002
 # Section 1 Sources: The Mocking Bird
 
 The following images are pages that include articles on the mocking bird from _The Saturday Magazine_ and _The Penny Magazine_. Transcripts of these pages are presented in the following webpage "Section 1 Transcripts: The Mocking Bird"
-
+<br/><br/> 
 
 ## The Mocking Bird in _The Saturday Magazine_
 The first two images are consecutive pages from _The Saturday Magazine_ July 13, 1833, issue. These are pages 15 - 16 of the collected 1833 volume. 
@@ -31,7 +31,7 @@ The first two images are consecutive pages from _The Saturday Magazine_ July 13,
 
 <br/><br/> 
 ## The Mocking Bird in _The Penny Magazine_
-The next three images are consecutive pages from the November 16, 1833, issue of _The Penny Magazine_, pages 443 – 445 in the collected 1833 volume.
+The next three images are consecutive pages from the November 16, 1833, issue of _The Penny Magazine_, pages 443 – 445 in the collected 1833 volume. The third page celebrates industrial child labor in the article "A Well-Conducted Factory." 
 
 
 
