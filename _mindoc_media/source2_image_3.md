@@ -14,7 +14,7 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=uc1.l0058474727&seq=332
 identifier: Volume p. 328, Digitization #332
 contributor: W & R Chambers Company
 format: 145 v 27-34 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
 _path: /assets/img/caterpillar_chambers.jpg
@@ -33,6 +33,6 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=uc1.l0058474727&seq=332
 identifier: Volume p. 328, Digitization #332
 contributor: W & R Chambers Company
 format: 145 v 27-34 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
