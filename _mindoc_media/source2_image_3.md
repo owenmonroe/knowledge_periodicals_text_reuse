@@ -3,7 +3,7 @@ page: source2
 title: Image_№3_from_Source2
 media_type: image
 
-_title: Chambers's Edinburgh Journal, Column for Mothers, Janet and her Web, Lace Made by Caterpillars
+_title: Chambers's Edinburgh Journal, Lace Made by Caterpillars
 description: An image of a full magazine page with three columns of text. The left columns begins with an article titled "Column for Mothers." The right column features an article titled "Janet and her Web" followed by an article titled "Lace Made by Caterpillars." 
 creator: William and Robert Chambers
 _date: 1834
@@ -23,7 +23,7 @@ layout: image_description
 
 _title: Chambers's Edinburgh Journal, Column for Mothers, Janet and her Web, Lace Made by Caterpillars
 description: An image of a full magazine page with three columns of text. The left columns begins with an article titled "Column for Mothers." The right column features an article titled "Janet and her Web" followed by an article titled "Lace Made by Caterpillars." 
-creator: William and Robert Chambers
+creator: William and Robert Chambers Company
 _date: 1834
 rights: Public Domain
 type: Text
