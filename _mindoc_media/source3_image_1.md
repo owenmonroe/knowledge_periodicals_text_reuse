@@ -3,9 +3,9 @@ page: source3
 title: Image_№1_from_Source3
 media_type: image
 
-_title: The Saturday Magazine, Anecdotes of Animals, The Evening Proceedings of Rooks
+_title: The Saturday Magazine, Rooks
 description: An image of a full magazine page with two columns of text. The left column has three articles, entitled "Anecdotes of Animals," "The Evening Proceedings of Rooks," and "Mungo Park in the Desert." The right columns includes the poem "The Lord's Day."
-creator: John William Parker, The Society for Promoting Christian Knowledge 
+creator: The Society for Promoting Christian Knowledge 
 _date: 1832
 rights: Public Domain
 type: Text
