@@ -11,19 +11,6 @@ Source 1: Mocking Bird Saturday Magazine Page 1
 
 
 
-
-
-
-iiiiiiiiiii
-
-
-
-
-
-
-
-
-
 Mocking Bird Saturday Magazine Page 2
 {% assign mockingbird_sat_2 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '02'" %}
 {% include media.html pages=mockingbird_sat_2 %}
