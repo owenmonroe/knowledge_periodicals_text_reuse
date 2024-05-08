@@ -13,7 +13,7 @@ source: Indiana University
 identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239709&seq=28
 identifier: Volume p. 16, Digitization #28
 contributor: The Society for Promoting Christian Knowledge 
-format: 25 v ill 27 cm
+format: 25 v ill 27 cm, jpg
 credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
