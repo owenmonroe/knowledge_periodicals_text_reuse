@@ -3,7 +3,7 @@ page: source1
 title: Image_№2_from_Source1
 media_type: image
 
-_title: The Saturday Magazine, The Mocking Bird, Anniversaries in July
+_title: The Saturday Magazine, The Mocking-Bird, Anniversaries in July
 description: An image of a magazine page with two columns of printed text. The left column features an image of a perched mocking bird, and the right column begins with the title "Anniversaries in July."
 creator: John William Parker, The Society for Promoting Christian Knowledge
 _date: 1833
