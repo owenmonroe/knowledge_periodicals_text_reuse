@@ -3,17 +3,17 @@ page: introduction
 title: Image_№1_from_Introduction
 media_type: image
 
-_title: The Rook from Penny Magazine
-description: Main page photo
-creator: Society for the Diffusion of Useful Knowledge
-_date:  January 31, 1839
-rights: 
-type: 
-source:
-identifier:
-contributor:
-format:
-credit_(IPTC):
+_title: Penny Magazine, The Rook
+description: A full magazine page image featuring the title, Monthly Supplement of the Penny Magazine of the Society for the Diffusion of Useful Knowledge, and date December 31, 1839, to January 31, 1839. Below this information is an engraving print image of trees with nesting rooks labeled "a rookery," followed two columns of magazine text. 
+creator: Charles Knight, The Society for the Diffusion of Useful Knowledge
+_date:  1839
+rights: Public Domain
+type: StillImage
+source: University of Iowa
+identifier: https://babel.hathitrust.org/cgi/pt?id=iau.31858046224600&seq=553
+contributor: The Society for the Diffusion of Useful Knowledge
+format: 
+credit_(IPTC): Digitized Courtesy of Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
 _path: /assets/img/rook_penny_1.jpg
@@ -21,15 +21,14 @@ order: '01'
 layout: image_description
 ---
 
-_title: The Rook from Penny Magazine
-description: Main page photo
+_title: Monthly Supplement of the Penny Magazine, The Rook
 creator: Society for the Diffusion of Useful Knowledge
-_date: January 31, 1839
-rights: 
-type: 
-source:
+_date: 1839
+rights: Public Domain
+type: StillImage
+source: University of Iowa
 identifier:
-contributor:
+contributor: The Society for the Diffusion of Useful Knowledge
 format:
-credit_(IPTC):
+credit_(IPTC): Digitized Courtesy of Google, Hathi Trust Digital Library
 date_created_(IPTC):
