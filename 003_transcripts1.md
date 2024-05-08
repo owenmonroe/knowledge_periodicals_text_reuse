@@ -19,10 +19,10 @@ Ardent spirits are destructive of health, property and morals; unfit to be used 
 
 Such being the consequences of the traffic and ardent spirits, as proved by incontrovertible evidence, the welfare of the nation calls for its suppression. This must be accomplished not by an appeal to the legislature for an Act of Parliament to abolish the trade, but by enlightened public opinion. If the community be convinced of the noxious qualities of ardent spirit, and the the vicious and immoral consequences to have habits of drinking lead, they will cease to buy, and the traffic must come to an end. But this object cannot be attained to the nation rise as one man to crush this enemy to its happiness. This is the result which the institutions called Temperance Societies aim to accomplish. The means they employ as simply the diffusion of information through the land, with a view to correct public opinion and unite men and women in the practice of total abstinence from distilled spirits as an article of ordinary use. They act upon the well established maxim that prevention is better than cure; and their first solicitation is to gain the countenance in support of this sober, temperate, respectable and influential classes of the community, whose combined example may operate upon this mass of the population. Such being their principle, that their principle and object, they deserve the support and assistance of every friend to humanity, and every lover of his country. 
 
-_____
+
 In most quarrels there is a fault on both sides. A quarrel may be compared to a spark, which cannot be produced without a flint, as well as a steel; either of them may hammer on wood for ever, no fire will follow. 
 
-_____
+
 Learn of the little Nautilus to sail, 
 spread the thin oar, and catch the driving gale. -- Pope. 
 To this little fish we are said to be indebted for one of the grandest and most useful inventions since the world began. It is thus described. It swims on the surface of the sea, on the back of its shell, which exactly resembles the whole of a ship, erases 2 feet like masts, and extends A membrane between which serves as a sail. The other two feet are employed as oars. This fish is usually found in the Mediterranean. 
@@ -62,12 +62,13 @@ If in those we acknowledge the symbols of greatness;
 If earth's pillars its Maker's omnipotence prove;
 In these let us hail Him, "whose clouds distill fatness,"
 And who crowneth the year with his goodness and love 
-_____
-The Mocking-Bird (_Turdus polyglottus._) 
 
+
+The Mocking-Bird (_Turdus polyglottus._) 
 The mockingbird is a species of thrush not uncommon in many parts of North and South America and the West Indian Islands. In size, it does not exceed the European songbird and perhaps is not equal to it in the beauty of its plumage. It is however far from being an inelegant creature, but is better known for the peculiarity and amazing power of its voice, although not to gifted with any powerful weapons of self-defense. These birds display extraordinary courage in defense of their eggs and young, and will fearlessly attack any animal which may approach their haunts, even their greatest enemy, a species of black snake. 
 
 "To these qualities" (says Wilson, the American author), "we may add, that of a voice full, strong, and musical, and capable of almost every modulation from the clear mellow tones of the wood thrush to the savage scream of the bald eagle. In measure and accent he faithfully follows his originals in force and sweetness of expression. He greatly exceeds them in his native groves, mounted on the top of a tall Bush or a half grown tree in the dawn of Dewey morning, while the woods are vocal with the multitude of warblers. Is admirable, song rises, preeminent over every competitor. The ear can listen to his music alone, to which that of all the others seems more accompaniment. Neither is this drain altogether imitative. His own native notes, which are easily distinguished by such as are well acquainted with those of our various songbirds. Are. Full and varied, seemingly beyond all limits, his expanded wings and tail glistened with white in the buoyant gayety of his action, arresting the eye as his song most irresistibly does the ear. He sweeps around with enthusiastics. Ecstasy. He mounts or descends as his song swells, or dies away, while thus exerting himself. A bystander, destitute of sight, would suppose that the whole feathered tribes had assembled together on a trial. 
+
 #### Second Page, Left Column
 Of skill, each striving to produce his utmost effect, so perfect are his limitation, his imitations. He many times deceives the sportsman, and sends him in search of a of birds that are perhaps not within miles of him, but whose notes he exactly imitates. Even birds themselves are frequently imposed on by this admirable mimic, and are decoyed by the fancied cause of their mates, or dive with precipitation into the depths of thickets at the scream of what they supposed to be the sparrow-hawk.
 
@@ -75,11 +76,10 @@ Of skill, each striving to produce his utmost effect, so perfect are his limitat
 
 "Both in his native and domesticated state, during the solemn stillness of night, as soon as the moon rises in silent majesty, he begins his delightful solo and serenades us to live long night with a full display of his vocal powers, making the whole neighbourhood arraying with his inimitable melody." 
 
-______
 A lover of Natural History cannot, I think, be a bad man, as the very study of it tends to promote a calmness and serenity of mind favorable to the reception of grateful and holy thoughts of the great and good parent of the universe. He cannot be a cool man, because he will be unwilling wantonly to destroy even an insect when he perceives how exquisitively each of them is contrived and. How curiously it is made for the station it is destined to fill in the animal world. --- Jesse. 
 
-______
 Many methods have been suggested for saving life in cases of accidents on the water. The following was stated to me as an experiment actually made by the regulator. He had thus supported himself in the sea at Plymouth for 20 minutes and could have done it much longer as danger of overturning or of sinking appears. Have your hat in readiness and place it under your chin, holding it with your hands in the same position upon the water as on the head. The air in the Crown will prevent the water from rising and is sufficient to keep the whole head above water. Homerton, James Edmeston. 
+
 
 #### Second Page, Right Column
 Anniversaries in July. 
@@ -97,6 +97,7 @@ Saturday 20th.
 1620 A massacre of the Protestants in the Valta Line, a fertile valley of Switzerland. 1819, Died at Edinburgh. John Playfair is celebrated mathematician and geographer 
 Sunday 21st. 
 7th Sunday after Trinity. 1403 Battle of Shrewsbury And this engagement to Prince of Wales afterwards, Henry the Fifth made his first essay in arms. The death of Henry Percy, better known as Hotspur, made this battle still more memorable. 1683 The execution of Lord Russell for high treason took place in Lincoln's Inn Fields, seventeen O 4, Taking of Gibraltar by the English. 1796, died at Dumfries in his 38th year. Robert Burns the poet. 
+
 
 London:
 John William Parker W Strand. Published in Weekly Numbers price 1 penny and in Monthly Parts Price sixpence, and sold by all booksellers and news vendors in the Kingdom. 
