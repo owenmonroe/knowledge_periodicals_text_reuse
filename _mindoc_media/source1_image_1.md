@@ -3,33 +3,33 @@ page: source1
 title: Image_№1_from_Source1
 media_type: image
 
-_title: The Mocking-Bird from Saturday Magazine, page 1
-description: from the July 13, 1833, issue of Penny Magazine
-creator: The Society for Promoting Christian Knowledge
-_date: Unknown
-rights: 
-type: 
-source:
-identifier:
-contributor:
-format:
-credit_(IPTC):
+_title: The Saturday Magazine, The Mocking-Bird 
+description: An image of a magazine page, featuring two columns of printed text. The second column includes an article beginning with the the title "The Mocking Bird."
+creator: John William Parker, The Society for Promoting Christian Knowledge
+_date: 1833
+rights: Public Domain
+type: Text
+source: Indiana University
+identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239709&seq=27 Volume p. 15, Digitization #17
+contributor: The Society for Promoting Christian Knowledge
+format: 25 v ill 27 cm, jpg
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
-_path: assets/img/mockingbird_saturday_1.jpg
+_path: /assets/img/mockingbird_saturday_1.jpg
 order: '01'
 layout: image_description
 ---
 
-_title: Mocking Bird Article from Penny Magazine, page 1
-description: from the July 13, 1833, issue of Penny Magazin
-creator: The Society for Promoting Christian Knowledge 
-_date: Unknown
-rights: 
-type: 
-source:
-identifier:
-contributor:
-format:
-credit_(IPTC):
+_title: The Saturday Magazine, The Mocking-Bird 
+description: An image of a magazine page, featuring two columns of printed text. The second column includes an article beginning with the the title "The Mocking Bird."
+creator: John William Parker, The Society for Promoting Christian Knowledge 
+_date: 1833
+rights: Public Domain
+type: Text
+source: Indiana University
+identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093239709&seq=27 Volume p. 15, Digitization #17
+contributor: The Society for Promoting Christian Knowledge
+format: 25 v ill 27 cm, jpg
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
