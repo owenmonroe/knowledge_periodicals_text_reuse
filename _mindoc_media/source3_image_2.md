@@ -13,7 +13,7 @@ source: Pennsylvania State University
 identifier: https://babel.hathitrust.org/cgi/pt?id=pst.000072262726&seq=39
 contributor: Volume p. 31, Digitization #39
 format: 25 v ill 7 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Digital Trust Library
+credit_(IPTC): Digitization courtesy Google, Hathi Digital Trust Library
 date_created_(IPTC):
 
 _path: /assets/img/rook_saturday_1835.jpg
@@ -31,7 +31,7 @@ source: Pennsylvania State University
 identifier: https://babel.hathitrust.org/cgi/pt?id=pst.000072262726&seq=39
 contributor: Volume p. 31, Digitization #39
 format: 25 v ill 7 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Digital Trust Library
+credit_(IPTC): Digitization courtesy Google, Hathi Digital Trust Library
 date_created_(IPTC):
 
 
