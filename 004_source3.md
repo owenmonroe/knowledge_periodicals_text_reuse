@@ -4,7 +4,9 @@ title: The Source 3
 number: 004 
 ---
 
-## Source 1: Rooks Saturday Magazine 1832
+# Section 3 Sources: Rooks
+
+## 
 
 {% assign rook_sat_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
