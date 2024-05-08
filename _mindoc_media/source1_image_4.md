@@ -5,7 +5,7 @@ media_type: image
 
 _title: The Penny Magazine, The Mocking-Bird (page 2)
 description: An image of magazine page with two text columns discussing mocking birds.
-creator: Charles Knight, The Society for the Diffusion of Useful Knowledge
+creator: The Society for the Diffusion of Useful Knowledge
 _date: 1833
 rights: Public Domain
 type: Text
@@ -23,7 +23,7 @@ layout: image_description
 
 _title: The Penny Magazine, The Mocking-Bird
 description: An image of magazine page with two text columns discussing mocking birds.
-creator: The Society for the Diffusion of Useful Knowledge
+creator: Charles Knight, The Society for the Diffusion of Useful Knowledge
 _date: 1833
 rights: Public Domain
 type: Text
