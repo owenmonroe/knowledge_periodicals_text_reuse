@@ -3,9 +3,9 @@ page: source2
 title: Image_№2_from_Source2
 media_type: image
 
-_title: The Saturday Magazine, Craigmillar Castle, Lace made by Caterpillars, Gratitude and Ingratitude
+_title: The Saturday Magazine, Lace Made by Caterpillars
 description: An image of a full magazine page featuring two columns of text. The left column includes the title "Craigmillar Castle" wih an engraving print image of a castle. The Right column features an article with the title, "Lace made by Caterpillars" and a second article titled "Gratitude and Ingratitude." 
-creator: John William Parker, The Society for Promoting Christian Knowledge
+creator: The Society for Promoting Christian Knowledge
 _date: 1832
 rights: Public Domain
 type: Text
@@ -23,7 +23,7 @@ layout: image_description
 
 _title: The Saturday Magazine, Craigmillar Castle, Lace made by Caterpillars, Gratitude and Ingratitude
 description: An image of a full magazine page featuring two columns of text. The left column includes the title "Craigmillar Castle" wih an engraving print image of a castle. The Right column features an article with the title, "Lace made by Caterpillars" and a second article titled "Gratitude and Ingratitude." 
-creator: The Society for Promoting Christian Knowledge
+creator: John William Parker, The Society for Promoting Christian Knowledge
 _date: 1832
 rights: Public Domain
 type: Text
