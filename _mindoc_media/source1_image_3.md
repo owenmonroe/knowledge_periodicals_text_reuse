@@ -28,8 +28,7 @@ _date: 1833
 rights: Public Domain
 type: Text
 source: Indiana University
-identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093220139&seq=481
-identifier: Volume p. 443, Digitization #481
+identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093220139&seq=481 Volume p. 443, Digitization #481
 contributor: The Society for the Diffusion of Useful Knowledge
 format: 14 v ill 20-29 cm, jpg
 credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
