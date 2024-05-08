@@ -3,9 +3,9 @@ page: source3
 title: Image_№4_from_Source3
 media_type: image
 
-_title: The Penny Magazine, The Rook
+_title: The Penny Magazine, The Rook (page 2)
 description: An image of a full magazine page with two columns of text featuring discussion of rooks. 
-creator: Charles Knight, J S Redfield, The Society for the Diffusion of Useful Knowledge
+creator: The Society for the Diffusion of Useful Knowledge
 _date: 1838
 rights: Public Domain
 type: Text
@@ -23,7 +23,7 @@ layout: image_description
 
 _title: The Penny Magazine, The Rook
 description: An image of a full magazine page with two columns of text featuring discussion of rooks. 
-creator:  The Society for the Diffusion of Useful Knowledge
+creator:  Charles Knight, J S Redfield, The Society for the Diffusion of Useful Knowledge
 _date: 1838
 rights: Public Domain
 type: Text
