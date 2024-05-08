@@ -24,7 +24,7 @@ where_exp: "item", "item.page == 'source2'" | where_exp: "item",
 
 
 
-# Lace Made by Caterpillars in _The Saturday Magazine_
+## Lace Made by Caterpillars in _The Saturday Magazine_
 This image is a page from _The Saturday Magazine_, the August 11, 1832, issue. This is page 56 of the collected 1832 volume. 
 
 {% assign caterpillar_saturday_2 = site.mindoc_media | sort: "order" |
@@ -32,12 +32,13 @@ where_exp: "item", "item.page == 'source2'" | where_exp: "item",
 "item.media_type == 'image'" | where_exp: "item", "item.order == '02'"
 %}
 {% include media.html pages=caterpillar_saturday_2 %}
+
 <br/><br/>
 
 
 
 
-# Source 3: Caterpillar Chambers's Edinburgh Journal
+## Source 3: Caterpillar Chambers's Edinburgh Journal
 This image is a page from _Chambers's Edinburgh Journal_, the November 9, 1833, issue. This is page 328 of the collected 1833 volume. 
 
 {% assign caterpillar_chambers_3 = site.mindoc_media | sort: "order" |
