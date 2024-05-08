@@ -3,9 +3,9 @@ page: source3
 title: Image_№5_from_Source3
 media_type: image
 
-_title: The Penny Magazine, The Rook, Notices of the Month
+_title: The Penny Magazine, The Rook (page 3)
 description: An image of a full magazine page with two columns of text. The left column features an article titled "Notices of the Month." 
-creator: Charles Knight, J S Redfield, The Society for the Diffusion of Useful Knowledge
+creator: The Society for the Diffusion of Useful Knowledge
 _date: 1838
 rights: Public Domain
 type: Text
