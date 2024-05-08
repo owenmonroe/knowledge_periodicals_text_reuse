@@ -28,8 +28,7 @@ _date: 1838
 rights: Public Domain
 type: Text
 source: University of Iowa
-identifier: https://babel.hathitrust.org/cgi/pt?id=iau.31858046224600&seq=554
-identifier: Volume p. 34, Digitization #554
+identifier: https://babel.hathitrust.org/cgi/pt?id=iau.31858046224600&seq=554 Volume p. 34, Digitization #554
 contributor: The Society for the Diffusion of Useful Knowledge
 format: v ill 29 cm, jpg
 credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
