@@ -14,7 +14,7 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=pst.000053162977&seq=141
 identifier: Volume p. 131, Digitization #141
 contributor: The Society for the Diffusion of Useful Knowledge 
 format: 16 v in 15 ill 20-29 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Libary
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Libary
 date_created_(IPTC):
 
 _path: /assets/img/caterpillar_penny.jpg
@@ -33,5 +33,5 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=pst.000053162977&seq=141
 identifier: Volume p. 131, Digitization #141
 contributor: The Society for the Diffusion of Useful Knowledge
 format: 16 v in 15 ill 20-29 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Libary
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Libary
 date_created_(IPTC):
