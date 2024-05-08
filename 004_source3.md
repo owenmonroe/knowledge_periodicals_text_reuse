@@ -36,7 +36,7 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 
 ## Rooks in _The Penny Magazine_ 
 
-The following three images are consecutive pages of _The Penny Magazine_, the December 31, 1838, monthly supplement issue. This is page 33 – 35 1839 volume.
+The following three images are consecutive pages of _The Penny Magazine_, the December 31, 1838, monthly supplement issue. These are pages 33 – 35 of the 1839 collected volume.
 
 {% assign rook_penny_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
