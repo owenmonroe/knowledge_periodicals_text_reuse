@@ -3,9 +3,9 @@ page: source1
 title: Image_№5_from_Source1
 media_type: image
 
-_title: The Penny Magazine, The Mocking-Bird, A Well-Conducted Factory
+_title: The Penny Magazine, The Mocking-Bird (page 3)
 description: An image of magazine page with a large print engraving image of a perched mocking bird in fron of a mountain. Two columns of text are below this image. The left column features the title "A Well-Conducted Factory." 
-creator: Charles Knight, The Society for the Diffusion of Useful Knowledge
+creator: The Society for the Diffusion of Useful Knowledge
 _date: 1833
 rights: Public Domain
 type: Text
@@ -23,7 +23,7 @@ layout: image_description
 
 _title: The Penny Magazine, The Mocking-Bird, A Well-Conducted Factory
 description: An image of magazine page with a large print engraving image of a perched mocking bird in fron of a mountain. Two columns of text are below this image. The left column features the title "A Well-Conducted Factory." 
-creator: The Society for the Diffusion of Useful Knowledge
+creator:  Charles Knight, The Society for the Diffusion of Useful Knowledge
 _date: 1833
 rights: Public Domain
 type: Text
