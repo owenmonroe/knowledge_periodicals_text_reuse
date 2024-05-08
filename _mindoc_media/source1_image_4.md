@@ -3,7 +3,7 @@ page: source1
 title: Image_№4_from_Source1
 media_type: image
 
-_title: The Penny Magazine, The Mocking-Bird
+_title: The Penny Magazine, The Mocking-Bird (page 2)
 description: An image of magazine page with two text columns discussing mocking birds.
 creator: Charles Knight, The Society for the Diffusion of Useful Knowledge
 _date: 1833
