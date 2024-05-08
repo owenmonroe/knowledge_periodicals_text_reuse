@@ -5,13 +5,13 @@ number: 004
 ---
 
 # Section 3 Sources: Rooks
-The following images are pages that include articles on rooks from _The Saturday Magazine_, and _The Penny Magazine_. Transcripts of these pages are presented in the following page of this edition, "Section 3 Transcripts: Caterpillar Lace"
+The following images are pages that include articles on rooks from _The Saturday Magazine_, and _The Penny Magazine_. Transcripts of these pages are presented in the following page of this edition, "Section 3 Transcripts: Caterpillar Lace."
 
 <br/><br/>
 
 
 ## Rooks in _The Saturday Magazine_
-This first image is a page of _The Saturday Magazine_, August 11, 1832 issue. This is page 56 of the collected 1832 volume. This page uses derogatory and oppressive language to refer to African people in the article "Mungo Park in the Desert." This page contains the article "Lace Made by Caterpillars," presented with the same image in "Section 1 Sources: Caterpillar Lace."
+This first image is a page of _The Saturday Magazine_, August 11, 1832 issue. This is page 56 of the collected 1832 volume. This page uses derogatory and oppressive language to refer to African people in the article "Mungo Park in the Desert."
 
 {% assign rook_sat_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
