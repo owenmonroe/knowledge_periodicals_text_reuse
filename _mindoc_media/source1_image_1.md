@@ -21,7 +21,7 @@ order: '01'
 layout: image_description
 ---
 
-_title: The Saturday Magazine, The Mocking-Bird (page 1)
+_title: The Saturday Magazine, The Mocking-Bird
 description: An image of a magazine page, featuring two columns of printed text. The second column includes an article beginning with the the title "The Mocking Bird."
 creator: John William Parker, The Society for Promoting Christian Knowledge 
 _date: 1833
