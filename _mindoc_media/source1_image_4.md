@@ -14,7 +14,7 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093220139&seq=482
 identifier: Volume p. 444, Digitization #482
 contributor: The Society for the Diffusion of Useful Knowledge
 format: 14 v ill 20-29 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
 _path: /assets/img/mockingbird_penny_2.jpg
@@ -33,5 +33,5 @@ identifier: https://babel.hathitrust.org/cgi/pt?id=inu.30000093220139&seq=482
 identifier: Volume p. 444, Digitization #482
 contributor: The Society for the Diffusion of Useful Knowledge
 format: 14 v ill 20-29 cm, jpg
-credit_(IPTC): Digitized courtesy Google, Hathi Trust Digital Library
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
