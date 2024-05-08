@@ -5,7 +5,7 @@ number: 003
 ---
 
 
-# Source 1: Caterpillar Penny Magazine
+# Section 2 Sources: Caterpillar Lace
 
 {% assign caterpillar_penny_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source2'" | where_exp: "item",
