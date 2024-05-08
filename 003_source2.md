@@ -12,7 +12,7 @@ The following images are pages that include articles on caterpillar lace from _T
 <br/><br/>
 
 ## Lace Made by Caterpillars in _The Penny Magazine_
-The first image is a page from _The Penny Magazine_, the June 30, 1832, issue. This is page 131 of the collected 1832 volume. 
+This first image is a page from _The Penny Magazine_, the June 30, 1832, issue. This is page 131 of the collected 1832 volume. 
 
 
 {% assign caterpillar_penny_1 = site.mindoc_media | sort: "order" |
