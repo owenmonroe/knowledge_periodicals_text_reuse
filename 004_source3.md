@@ -6,7 +6,8 @@ number: 004
 
 # Section 3 Sources: Rooks
 
-## 
+## Rooks in _The Saturday Magazine_
+The fist two images are 
 
 {% assign rook_sat_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
@@ -15,11 +16,6 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 {% include media.html pages=rook_sat_1 %}
 
 
-
-
-
-
-## Source 2: Rooks Saturday Magazine 1835
 
 {% assign rook_sat_2 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
@@ -32,7 +28,7 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 
 
 
-## Source 3: Rooks Penny Magazine 1839, page 1
+## Rooks in _The Penny Magazine_ 1839
 
 {% assign rook_penny_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
