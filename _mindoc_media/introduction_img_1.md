@@ -11,9 +11,10 @@ rights: Public Domain
 type: StillImage
 source: University of Iowa
 identifier: https://babel.hathitrust.org/cgi/pt?id=iau.31858046224600&seq=553
+identifier: Volume p. 33, Digitization #553
 contributor: The Society for the Diffusion of Useful Knowledge
 format: 
-credit_(IPTC): Digitized Courtesy of Google, Hathi Trust Digital Library
+credit_(IPTC): Digitization courtesy Google, Hathi Trust Digital Library
 date_created_(IPTC):
 
 _path: /assets/img/rook_penny_1.jpg
