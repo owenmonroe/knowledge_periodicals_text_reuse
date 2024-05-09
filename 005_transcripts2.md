@@ -168,7 +168,7 @@ C. Richards, Printer, 100 St. Martins Lane, Charing Cross.
 
 Column for Mothers 
 
-Mrs Child in American Authoress, who, like the excellent Miss Edgeworth, has done a great deal to instill rules of conduct into the minds of young people by means of a series of useful little works, gives the following valuable advices to mothers in the subject of teaching children politeness.-
+Mrs Child, an American Authoress, who, like the excellent Miss Edgeworth, has done a great deal to instill rules of conduct into the minds of young people by means of a series of useful little works, gives the following valuable advices to mothers in the subject of teaching children politeness.-
 
 "In politeness, as in many other things connected with the formation of character, people in general begin outside when they should begin inside. Instead of beginning with the heart and trusting that to form the manners, to begin with the manners and trust the heart to chance influences, the Golden Rule contains the very life and soul of politeness. Children may be taught to make a graceful courtesy or a gentlemanly bow. But unless they have likewise been taught to abhor what is selfish and always prefer another's comfort and pleasure to their own, their politeness will be entirely artificial and used only when it is their interest to use it. On the other hand, a truly benevolent, kind hearted person will always be distinguished for what is called native politeness. Though entirely ignorant of the conventional forms of society.
 
