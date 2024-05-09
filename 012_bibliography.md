@@ -8,21 +8,29 @@ number: 014
 
 ## Secondary Sources
 
-Cordell, Ryan. “Reprinting, Circulation, and the Network Author in Antebellum 	Newspapers.” American Literary History 27, no. 3 (2015): 417-	445. muse.jhu.edu/article/590710.
+Bennett, Scott. “Revolutions in Thought: Serial Publication and the Mass Market for Reading.” _The Victorian Periodical Press: Samplings and Soundings_, edited by Joanne Shattock and Michael Wolff. Toronto: Leicester University Press, 1982.
 
-Fyfe, Aileen. Steam-Powered Knowledge: William Chambers and the Business of Publishing, 	1820-1860. University of Chicago Press, 2012.
+Cordell, Ryan. “Reprinting, Circulation, and the Network Author in Antebellum Newspapers.” _American Literary History_. 27, no. 3, 2015. [muse.jhu.edu/article/590710.](muse.jhu.edu/article/590710)
 
-Olson, Richard. Science and Religion, 1450-1900: From Copernicus to Darwin. Greenwood 	Press, 2004.
+Fyfe, Aileen. _Steam-Powered Knowledge: William Chambers and the Business of Publishing, 1820-186_. University of Chicago Press, 2012.
 
-Rauch, Alan. Useful Knowledge: The Victorians, Morality, and the March of Intellect. Duke 	University Press, 2001.
+ Gates, Barbara T. “Introduction: Why Victorian Natural History?” _Victorian Literature and Culture_. 35, no. 2, 2007. [http://www.jstor.org/stable/40347173.](http://www.jstor.org/stable/40347173)
 
-Secord, James A. Victorian Sensation: The Extraordinary Publication, Reception, and Secret 	Authorship of Vestiges of the Natural History of Creation. University of Chicago Press, 	2000.
+Olson, Richard. _Science and Religion, 1450-1900: From Copernicus to Darwin._ Greenwood Press, 2004.
 
-Thomson, Keith Stewart. Before Darwin: Reconciling God and Nature. Yale University Press, 	2005.
+Rauch, Alan. _Useful Knowledge: The Victorians, Morality, and the March of Intellect._ Duke	University Press, 2001.
 
-Topham, Jonathan R. Reading the Book of Nature: How Eight Best Sellers Reconnected 	Christianity and the Sciences on the Eve of the Victorian Age. The University of Chicago 	Press, 2022.
+Secord, James A. _Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation_. University of Chicago Press, 2000.
 
-Wiener, Joel H. The War of the Unstamped : The Movement to Repeal the British Newspaper Tax, 	1830-1836. Cornell University Press, 1969.
+Shuttleworth, Sally, and Geoffrey Cantor. “Introduction.” _Science Serialized: Representations of the Sciences in Nineteenth-Century Periodicals_, edited by Geoffrey Cantor and Sally Shuttleworth. Cambridge: The MIT Press, 2004. [https://doi.org/10.7551/mitpress/6080.003.0001.](https://doi.org/10.7551/mitpress/6080.003.0001)
+
+Thomson, Keith Stewart. _Before Darwin: Reconciling God and Nature._ New Haven: Yale University Press, 2005.
+
+Topham, Jonathan R. _Reading the Book of Nature: How Eight Best Sellers Reconnected Christianity and the Sciences on the Eve of the Victorian Age._ Chicago: The University of Chicago Press, 2022.
+
+Topham, Jonathan R. “Science, Natural Theology, and the Practice of Christian Piety in Early-Nineteenth-Century Religious Magazines.” _Science Serialized: Representations of the Sciences in Nineteenth-Century Periodicals_, edited by Geoffrey Cantor and Sally Shuttleworth. Cambridge: The MIT Press, 2004. [https://doi.org/10.7551/mitpress/6080.003.0003.](https://doi.org/10.7551/mitpress/6080.003.0003)
+
+Wiener, Joel H. _The War of the Unstamped : The Movement to Repeal the British Newspaper Tax, 1830-1836._ Ithaca: Cornell University Press, 1969.
 
 <br/><br/>
 
