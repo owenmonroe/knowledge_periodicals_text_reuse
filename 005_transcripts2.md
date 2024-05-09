@@ -5,8 +5,8 @@ number: 005
 ---
 
 # Section 2 Transcripts: Caterpillar Lace
-This page features transcripts of the text from sources images presented in the "Section 2 Sources: Caterpillar" page of this edition. Reprinted text is in ***bold and italics***.
-<br/><br/><br/>
+This page features transcripts of the text from sources images presented in the ["Section 2 Sources: Caterpillar"](https://owenmonroe.github.io/knowledge_periodicals_text_reuse/004_source2.html) page of this edition. Reprinted text is in ***bold and italics***.
+<br/><br/>
 
 
 ## Caterpillar Lace in _The Penny Magazine_
