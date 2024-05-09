@@ -8,7 +8,6 @@ number: 004
 # Section 2 Sources: Caterpillar Lace
 
 The following images are pages that include articles on caterpillar lace from _The Penny Magazine_, _The Saturday Magazine_, and _Chambers's Edninburgh Journal_. Transcripts of these pages are presented in the following page of this edition, "Section 2 Transcripts: Caterpillar Lace."
-
 <br/><br/>
 
 
