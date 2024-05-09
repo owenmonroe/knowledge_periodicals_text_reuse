@@ -6,6 +6,7 @@ number: 007
 
 # Section 3 Transcripts: Rooks
 This page features transcripts of the text from source images presented in the "Section 3 Sources: Rooks" page of this edition. Reprinted text is in ***bold and italics***
+<br/><br/> 
 
 ## Rooks in _The Saturday Magazine_, 1832
 ### The following transcript is of the entire text of the full page of _The Saturday Magazine_ August 11, 1832, issue, including the article "Evening Proceeding of the Rooks."
@@ -15,7 +16,6 @@ This page features transcripts of the text from source images presented in the "
 Anecdotes of Animals 
 
 We know a doe still alive that was brought up from a little fawn with a dairy of cows. With them it goes a field, and with them it returns to the yard. The dogs of the house take no notice of this deer being used to her. But if strange dogs come by, a chase ensues while the master smiles to see his favorite securely leading her pursuers over hedge or gate or style till she returns to the cows, who with fierce. Wings and menacing horns Dr. the assailants quite out of the pasture. Even great disparity of kind and size does not always prevent social advances and mutual fellowship. For a very intelligent and observant person has had assured me that in the former part of his life keeping but one horse, he happened to also on a time to have but one solitary hen. These two incongruous animals spent much of their time together in a lonely orchard where they saw no creature but each other by degrees, and apparent regard began to take place between these two sequestered individuals. The foul would approach the quadruped with notes of complacency, rubbing herself gently against his legs, while the horse would look down with satisfaction and move with the greatest caution and circumspection, lest he should trample on his diminutive companion. 
-
 
 ***The Evening Proceedings of Rooks, &c.***
 
@@ -92,6 +92,7 @@ Shrewsbury... Eddowes.
 Worcester... Deightton. 
 _____
 C. Richards Printer, 100, St. Martin's Lane, Charing Cross
+<br/><br/> 
 
 
 ## Rooks in _The Saturday Magazine_, 1835
@@ -131,6 +132,7 @@ There are several traits peculiar to this goat. It is a graceful and beautifully
 Though Cuvier asserts that there are several races of the shawl goat which chiefly differ, according to his account in the length of the ears, yet he says they all produce the same wool, and seems to signify that there is no distinction of quality. He ascribes the fineness of their wool to the influence of the climate. Which? 
 
 * See Saturda Magazine Vol. V., p. 143.
+<br/><br/>
 
 
 ## Rooks in _The Penny Magazine_, 1838
