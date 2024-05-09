@@ -4,7 +4,7 @@ title: Image_№2_from_Source1
 media_type: image
 
 _title: The Saturday Magazine, The Mocking-Bird (page 2)
-description: An image of a magazine page with two columns of printed text. The left column features an image of a perched mocking bird, and the right column begins with the title "Anniversaries in July."
+description: An image of a magazine page with two columns of printed text. The left column features an image of a perched mocking bird, and the right column begins with an articled titled "Anniversaries in July."
 creator: The Society for Promoting Christian Knowledge
 _date: 1833
 rights: Public Domain
@@ -22,7 +22,7 @@ layout: image_description
 ---
 
 _title: The Saturday Magazine, The Mocking Bird, Anniversaries in July
-description: An image of a magazine page with two columns of printed text. The left column features an image of a perched mocking bird, and the right column begins with the title "Anniversaries in July."
+description: An image of a magazine page with two columns of printed text. The left column features an image of a perched mocking bird, and the right column begins with an article titled "Anniversaries in July."
 creator: The Society for Promoting Christian Knowledge
 _date: 1833
 rights: Public Domain
