@@ -32,31 +32,31 @@ Knight’s Penny Magazine Volume 1: 1832
 
 Knight, Charles, 1791-1873, and Society for the Diffusion of Useful Knowledge (Great 	Britain). _Knight's Penny Magazine._ Vol. 1. London: C. Knight & Co., 1832. [https://babel.hathitrust.org/cgi/pt?id=pst.000053162977&seq=1](https://babel.hathitrust.org/cgi/ptid=pst.000053162977&seq=1)
 
-
+<br/>
 Penny Magazine Volume 2: 1833
 
 Society for the Diffusion of Useful Knowledge (Great Britain). _The Penny Magazine of the Society for the Diffusion of Useful Knowledge._ Vol. 2. London: Charles Knight, 1833. [https://babel.hathitrust.org/cgi/pt?id=inu.30000093220139&seq=7](https://babel.hathitrust.org/cgi/pt?id=inu.30000093220139&seq=7)
-
+<br/>
 
 Penny Magazine Volume 7-8: 1838-9
 
 Society for the Diffusion of Useful Knowledge. _The Penny Magazine of the Society for the Diffusion of Useful Knowledge_. Vol. 7-8. New York: J.S. Redfield, Clinton Hall, 1839. [https://babel.hathitrust.org/cgi/pt?id=iau.31858046224600&seq=7](https://babel.hathitrust.org/cgi/pt?id=iau.31858046224600&seq=7)
-
+<br/>
 
 Saturday Magazine Volume 1: 1832
 
 _The Saturday Magazine_. Vol 1. London: John William Parker, 1832. [https://babel.hathitrust.org/cgi/pt?id=inu.30000093239683&seq=7](https://babel.hathitrust.org/cgi/pt?id=inu.30000093239683&seq=7)
-
+<br/>
 
 Saturday Magazine Volume 3: 1833
 
 _The Saturday Magazine_. Vol. 3. London: John William Parker, 1833. [https://babel.hathitrust.org/cgi/pt?id=inu.30000093239709&seq=1](https://babel.hathitrust.org/cgi/pt?id=inu.30000093239709&seq=1)
-
+<br/>
 
 Saturday Magazine Volume 7: 1835
 
 _The Saturday Magazine._ Vol. 7. London: John William Parker, 1835. [https://babel.hathitrust.org/cgi/pt?id=pst.000072262726&seq=1](https://babel.hathitrust.org/cgi/pt?id=pst.000072262726&seq=1 )
-
+<br/>
 
 Chambers’s Edinburgh Journal Volume 2: 1833-4
 
