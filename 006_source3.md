@@ -28,7 +28,6 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 %}
 {% include media.html pages=rook_sat_2 %}
 
-
 <br/><br/>
 
 
