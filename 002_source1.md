@@ -24,8 +24,7 @@ The first two images are consecutive pages from _The Saturday Magazine_ July 13,
 
 
 ## The Mocking Bird in _The Penny Magazine_
-The next three images are consecutive pages from the November 16, 1833, issue of _The Penny Magazine_, pages 443 – 445 in the collected 1833 volume. The third page celebrates industrial child labor in the article, "A Well-Conducted Factory." 
-
+The next three images are consecutive pages from the November 16, 1833, issue of _The Penny Magazine_, pages 443 – 445 in the collected 1833 volume.
 
 {% assign mockingbird_penny_1 = site.mindoc_media | sort: "order" | where_exp: "item", "item.page == 'source1'" | where_exp: "item", "item.media_type == 'image'" | where_exp: "item", "item.order == '03'" %}
 {% include media.html pages=mockingbird_penny_1 %}
