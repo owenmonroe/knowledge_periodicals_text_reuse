@@ -4,7 +4,7 @@ title: Image_№1_from_Source2
 media_type: image
 
 _title: The Penny Magazine, Lace Made by Caterpillars
-description: An image of a full magazine page, featuring two columns of text. The left column includes the title "Lace made by Caterpillars" and the right title includes the title "Zoological Society." 
+description: An image of a full magazine page, featuring two columns of text. The left column includes an article titled "Lace made by Caterpillars" and the right column includes an article titled "Zoological Society." 
 creator: The Society for the Diffusion of Useful Knowledge
 _date: 1832
 rights: Public Domain
@@ -22,7 +22,7 @@ layout: image_description
 ---
 
 _title: The Penny Magazine, Lace Made by Caterpillars
-description: An image of a full magazine page, featuring two columns of text. The left column includes the title "Lace made by Caterpillars" and the right title includes the title "Zoological Society." 
+description: An image of a full magazine page, featuring two columns of text. The left column includes an article titled "Lace made by Caterpillars" and the right column includes an article titled "Zoological Society." 
 creator: Charles Knight, The Society for the Diffusion of Useful Knowledge
 _date: 1832
 rights: Public Domain
