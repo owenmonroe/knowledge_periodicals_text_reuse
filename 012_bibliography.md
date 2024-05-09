@@ -31,8 +31,8 @@ Wiener, Joel H. The War of the Unstamped : The Movement to Repeal the British 
 Knight’s Penny Magazine Volume 1: 1832
 
 Knight, Charles, 1791-1873, and Society for the Diffusion of Useful Knowledge (Great 	Britain). _Knight's Penny Magazine._ Vol. 1. London: C. Knight & Co., 1832. [https://babel.hathitrust.org/cgi/pt?id=pst.000053162977&seq=1](https://babel.hathitrust.org/cgi/ptid=pst.000053162977&seq=1)
-
 <br/>
+
 Penny Magazine Volume 2: 1833
 
 Society for the Diffusion of Useful Knowledge (Great Britain). _The Penny Magazine of the Society for the Diffusion of Useful Knowledge._ Vol. 2. London: Charles Knight, 1833. [https://babel.hathitrust.org/cgi/pt?id=inu.30000093220139&seq=7](https://babel.hathitrust.org/cgi/pt?id=inu.30000093220139&seq=7)
