@@ -6,7 +6,7 @@ number: 003
 
 # Section 1 Transcripts: The Mocking Bird
 This page features transcripts of the text from sources images presented in the "Section 1 Sources: The Mocking Bird" page of this edition. Reprinted text is in ***bold and italics***.
-<br/><br/> 
+<br/><br/><br/>
 
 
 ## The Mocking Bird in _The Saturday Magazine_
@@ -186,7 +186,8 @@ Seventh Sunday after Trinity.
 ______
 London:
 John William Parker W Strand. Published in Weekly Numbers price 1 penny and in Monthly Parts Price sixpence, and sold by all booksellers and news vendors in the Kingdom. 
-<br/><br/> 
+
+<br/><br/><br/>
 
 ## The Mocking Bird in _The Penny Magazine_
 ### The following transcript is of the entire text of the three full pages of _The Penny Magazine_ November 16, 1833, issue, including the article "The Mocking-Bird."
