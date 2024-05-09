@@ -23,7 +23,6 @@ Thomson, Keith Stewart. Before Darwin: Reconciling God and Nature. Yale Universi
 Topham, Jonathan R. Reading the Book of Nature: How Eight Best Sellers Reconnected 	Christianity and the Sciences on the Eve of the Victorian Age. The University of Chicago 	Press, 2022.
 
 Wiener, Joel H. The War of the Unstamped : The Movement to Repeal the British Newspaper Tax, 	1830-1836. Cornell University Press, 1969.
-![image](https://github.com/owenmonroe/knowledge_periodicals_text_reuse/assets/115114362/c3422b8d-0f5e-4535-a276-d044c1d78db1)
 
 <br/><br/>
 
