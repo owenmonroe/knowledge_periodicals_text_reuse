@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Credits
-number: 014
+number: 013
 ---
 
 # Credits and Acknowledgments
