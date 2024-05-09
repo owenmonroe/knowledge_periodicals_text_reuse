@@ -6,7 +6,6 @@ number: 006
 
 # Section 3 Sources: Rooks
 The following images are pages that include articles on rooks from _The Saturday Magazine_, and _The Penny Magazine_. Transcripts of these pages are presented in the following page of this edition, "Section 3 Transcripts: Caterpillar Lace."
-
 <br/><br/>
 
 
