@@ -10,7 +10,7 @@ number: 014
 
 Bennett, Scott. “Revolutions in Thought: Serial Publication and the Mass Market for Reading.” _The Victorian Periodical Press: Samplings and Soundings_, edited by Joanne Shattock and Michael Wolff. Toronto: Leicester University Press, 1982.
 
-Cordell, Ryan. “Reprinting, Circulation, and the Network Author in Antebellum Newspapers.” _American Literary History_. 27, no. 3, 2015. [muse.jhu.edu/article/590710.](muse.jhu.edu/article/590710)
+Cordell, Ryan. “Reprinting, Circulation, and the Network Author in Antebellum Newspapers.” _American Literary History_. 27, no. 3, 2015. [https://www.jstor.org/stable/43817707](https://www.jstor.org/stable/43817707).
 
 Fyfe, Aileen. _Steam-Powered Knowledge: William Chambers and the Business of Publishing, 1820-186_. University of Chicago Press, 2012.
 
