@@ -10,7 +10,7 @@ The following images are pages that include articles on rooks from _The Saturday
 
 
 ## Rooks in _The Saturday Magazine_
-This first image is a page of _The Saturday Magazine_, August 11, 1832 issue. This is page 56 of the collected 1832 volume. This page uses derogatory and oppressive language to refer to African people in the article "Mungo Park in the Desert."
+This first image is a page of _The Saturday Magazine_, August 11, 1832 issue. This is page 56 of the collected 1832 volume. 
 
 {% assign rook_sat_1 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
