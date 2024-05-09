@@ -20,7 +20,7 @@ where_exp: "item", "item.page == 'source3'" | where_exp: "item",
 
 <br/><br/>
 
-This images is a page of _The Saturday Magazine_, the July 25, 1835, issue. This is page 31 of the collected 1835 volume.
+This image is a page of _The Saturday Magazine_, the July 25, 1835, issue. This is page 31 of the collected 1835 volume.
 
 {% assign rook_sat_2 = site.mindoc_media | sort: "order" |
 where_exp: "item", "item.page == 'source3'" | where_exp: "item",
