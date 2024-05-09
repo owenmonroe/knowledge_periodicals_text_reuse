@@ -5,7 +5,7 @@ number: 003
 ---
 
 # Section 1 Transcripts: The Mocking Bird
-This page features transcripts of the text from sources images presented in the "Section 1 Sources: The Mocking Bird" page of this edition. Reprinted text is in ***bold and italics***
+This page features transcripts of the text from sources images presented in the "Section 1 Sources: The Mocking Bird" page of this edition. Reprinted text is in ***bold and italics***.
 <br/><br/> 
 
 
@@ -32,36 +32,67 @@ To this little fish we are said to be indebted for one of the grandest and most 
 A Devonshire sketch by the late Reverend John Marriott of Broadclyst. 
 
 Ye, grain hills of Devon. I love to look o'er ye;
+
 The glowing of your verdure refreshes my sight!
+
 in the wild and majestic let Westmoreland glory;
-But yours is the palm of more tranquil delight,  
+
+But yours is the palm of more tranquil delight, 
+
 Not that robes of rich beauty in which nature dresses 
+
 Her features of boldness, your limits disown;
+
 to him who could deem so, deep Lymouth's recesses,
-and Dart's rocky borders must all be unknown  
+
+and Dart's rocky borders must all be unknown
+
 But your own proper boast is the Combe, neatly rounded, 
+
 which preserves through all seasons its emerald hue;
+
 whilst the dues o'er the uplands, by which it is bounded.
+
 in part in soft contrast, the mist's tender blue 
+
 Not deserted, though lonely: the vale in its centre,
+
 Girl with Barn and rough with Linhay and closes a farm;
+
 And o'er the warm nook of its deepest indenture,
+
 The orchards fair bloom sheds its fugitive charm.
+
 An eye little used to such leafy profusion, 
+
 might fancy you hedge-row one wide-waving wood;
+
 and furze and plumed fern, as to aid the illusion,
-Here and there on the tameness of culture intrude.  
+
+Here and there on the tameness of culture intrude. 
+
 But wildest the mixture of shrub, bush, and bramble,
-And sweetest the scent which the wild flowers breathe, 
+
+And sweetest the scent which the wild flowers breathe,
+
 Where the birchen-banks mark the streams devious ramble 
+
 And the ear drinks its musical murmurs beneath. 
+
 How soothing the sense of serenity stealing 
+
 O'er the mind whilst on plenty and peace thus we gaze!
+
 Less grateful, perhaps, though more lively, the feeling
+
 Awakened by prospects that awe and amaze. 
+
 If in those we acknowledge the symbols of greatness;
+
 If earth's pillars its Maker's omnipotence prove;
+
 In these let us hail Him, "whose clouds distill fatness,"
+
 And who crowneth the year with his goodness and love 
 
 ______
