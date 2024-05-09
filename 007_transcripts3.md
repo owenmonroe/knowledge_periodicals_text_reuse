@@ -5,7 +5,7 @@ number: 007
 ---
 
 # Section 3 Transcripts: Rooks
-This page features transcripts of the text from source images presented in the "Section 3 Sources: Rooks" page of this edition. Reprinted text is in ***bold and italics***.
+This page features transcripts of the text from source images presented in the ["Section 3 Sources: Rooks"](https://owenmonroe.github.io/knowledge_periodicals_text_reuse/006_source3.html) page of this edition. Reprinted text is in ***bold and italics***.
 <br/><br/> 
 
 ## Rooks in _The Saturday Magazine_, 1832
