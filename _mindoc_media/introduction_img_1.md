@@ -5,7 +5,7 @@ media_type: image
 
 _title: Penny Magazine, The Rook
 description: A full magazine page image featuring the title, Monthly Supplement of the Penny Magazine of the Society for the Diffusion of Useful Knowledge, and date December 31, 1839, to January 31, 1839. Below this information is an engraving print image of trees with nesting rooks labeled "a rookery," followed two columns of magazine text. 
-creator: Charles Knight, The Society for the Diffusion of Useful Knowledge
+creator: The Society for the Diffusion of Useful Knowledge
 _date:  1839
 rights: Public Domain
 type: StillImage
@@ -22,7 +22,7 @@ layout: image_description
 ---
 
 _title: Monthly Supplement of the Penny Magazine, The Rook
-creator: Society for the Diffusion of Useful Knowledge
+creator: Charles Knight, Society for the Diffusion of Useful Knowledge
 _date: 1839
 rights: Public Domain
 type: StillImage
