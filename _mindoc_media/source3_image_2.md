@@ -4,8 +4,8 @@ title: Image_№2_from_Source3
 media_type: image
 
 _title: The Saturday Magazine, Choice of Seasons, The Tibet Goat
-description: An image of a full magazine page with two columns of text. The left column begins with the article "Choice of Seasons", and the right column begins with the column "The Tibet Goat." 
-creator: John William Parker, The Society for Promoting Christian Knowledge 
+description: An image of a full magazine page with two columns of text. The left column begins with the article "Choice of Seasons", and the right column begins with an article titled "The Tibet Goat." 
+creator: The Society for Promoting Christian Knowledge 
 _date: 1835
 rights: Public Domain
 type: Text
@@ -22,7 +22,7 @@ layout: image_description
 ---
 
 _title: The Saturday Magazine, Choice of Seasons, The Tibet Goat
-description: An image of a full magazine page with two columns of text. The left column begins with the article "Choice of Seasons", and the right column begins with the column "The Tibet Goat." 
+description: An image of a full magazine page with two columns of text. The left column begins with the article "Choice of Seasons", and the right column begins with an article titled "The Tibet Goat." 
 creator: John William Parker, The Society for Promoting Christian Knowledge 
 _date: 1835
 rights: Public Domain
