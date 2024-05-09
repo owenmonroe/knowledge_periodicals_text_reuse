@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 number: 001
 ---
-# Introduction
+# Introduction 
 
   This edition presents pages from early Victorian British magazines discussing natural science. The magazines presented here reflect different interpretations of natural science discoveries and texts. The edition divides magazine articles into three sections based on animal topics: caterpillar lace, mocking birds, and rooks. Not only do the articles in each section share the same topic, they all contain an identical passage. These textual snippets, often a paragraph, are presented in a different context in each article, juxtaposed with different material on the same page. These pages reveal reprinting and quoting of text as possible paths of textual influence across publications. These same passages also reveal what the different perspectives of the periodicals and their creators. Publications include these reprinted description of nature and animals alongside discussions of many other concepts, including religious belief, industrial labor, and colonial hierarchies. Often quoting various external sources, these magazine create a textual network that affected historical readers’ understanding of nature and scientific discovery. Powerful publishers with distinct ideological goals contested ideas around science and religion in particular within these popular and ephemeral papers.
 
