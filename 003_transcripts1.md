@@ -97,6 +97,7 @@ And who crowneth the year with his goodness and love
 
 ______
 The Mocking-Bird (_Turdus polyglottus._) 
+
 The mockingbird is a species of thrush not uncommon in many parts of North and South America and the West Indian Islands. In size, it does not exceed the European songbird and perhaps is not equal to it in the beauty of its plumage. It is however far from being an inelegant creature, but is better known for the peculiarity and amazing power of its voice, although not to gifted with any powerful weapons of self-defense. These birds display extraordinary courage in defense of their eggs and young, and will fearlessly attack any animal which may approach their haunts, even their greatest enemy, a species of black snake. 
 
 ***"To these qualities" (says Wilson, the American author), "we may add, that of a voice full, strong, and musical, and capable of almost every modulation from the clear mellow tones of the wood thrush to the savage scream of the bald eagle. In measure and accent he faithfully follows his originals in force and sweetness of expression. He greatly exceeds them in his native groves, mounted on the top of a tall Bush or a half grown tree in the dawn of Dewey morning, while the woods are vocal with the multitude of warblers. Is admirable, song rises, preeminent over every competitor. The ear can listen to his music alone, to which that of all the others seems more accompaniment. Neither is this drain altogether imitative. His own native notes, which are easily distinguished by such as are well acquainted with those of our various songbirds. Are. Full and varied, seemingly beyond all limits, his expanded wings and tail glistened with white in the buoyant gayety of his action, arresting the eye as his song most irresistibly does the ear. He sweeps around with enthusiastics. Ecstasy. He mounts or descends as his song swells, or dies away, while thus exerting himself. A bystander, destitute of sight, would suppose that the whole feathered tribes had assembled together on a trial.*** 
@@ -117,19 +118,33 @@ Many methods have been suggested for saving life in cases of accidents on the wa
 
 #### Second Page, Right Column
 Anniversaries in July. 
-Monday, 15th. 
+
+Monday, 15th.
+
 Saint Swithin's Day, See Saturday Magazine, Vol 1P14. 1685 Execution of the Duke of Monmouth after his defeat at Sedgemoor. 1815 Napoleon went on board the British ship Bellerophon. Captain Maitland, after his defeat at Waterloo, 1817 died at Paris. The Baroness de Stael, the daughter of M Necker and the author of several political works which enjoyed considerable popularity while the events of the French Revolution, with which the name of M Necker is so intimately connected. Were recent her works eventually events much knowledge of the human heart? 
+
 Tuesday, 16th.
+
 6/22. On this day the flight of the impostor Mohammed from Mecca took place. In from it, his followers date the event of their history. The epoch is called from the Arabic world, which signifies to fly or to leave one's country. The Hegira. 1377. Richard, the second only child of Edward the Black Prince, was crowned at Westminster. He did not inherit the warlike genius or the talent of his father and grandfather, but seems to have been of a mild, amiable disposition, and may truly be said, in the words of Shakespeare, to have been a man more sinned against than sinning. 1546 and a skew A young lady of great merit and beauty, connected with most of the ladies of the court and with the Queen. Catherine Parr was burned at Smithfield for denying the doctrine of the Real Presence. 1800 Died at his seat near Southampton. Brian Edwards the author of The History of the West Indies. 
-Wednesday 17th. 
-There are. In 1674. There. Hints of the two princes, Edward the 5th and his brother were discovered in the Tower, and by order of Charles the 2nd. Moved to Westminster Abbey. 1761 Peter the third husband of Catherine the Second, was murdered. The unfortunate emperor was strangled with the towel, and the next day his body was exposed to the populace and his death attributed to that disease we now call cholera.  
+
+Wednesday 17th.
+
+There are. In 1674. There. Hints of the two princes, Edward the 5th and his brother were discovered in the Tower, and by order of Charles the 2nd. Moved to Westminster Abbey. 1761 Peter the third husband of Catherine the Second, was murdered. The unfortunate emperor was strangled with the towel, and the next day his body was exposed to the populace and his death attributed to that disease we now call cholera. 
+
 Thursday 18th.
-371 BC The Battle of Lutra, in which the Lassa Demonia ANS were defeated in their general clip. Bratus slain. 1100 Death of Godfrey de Bouillon, the most celebrated leader among the princes and nobles, who went on the First Crusade. When Jerusalem was taken, he was unanimously chosen king. 1374 Petrarch, one of the earliest, as well as the most elegant among the Italian poets, whose romantic attachment to the beautiful Laura has rendered his name familiar even to those who are wholly ignorant of Italian literature, was found dead in his Library on the 17th anniversary of his birth. 1796. Lol. Be the 18th compelled to leave the army of the emigrants and place himself in the hands of the Austrians. 1812 A Treaty of peace between England and Sweden was signed at a arabo.  
+
+371 BC The Battle of Lutra, in which the Lassa Demonia ANS were defeated in their general clip. Bratus slain. 1100 Death of Godfrey de Bouillon, the most celebrated leader among the princes and nobles, who went on the First Crusade. When Jerusalem was taken, he was unanimously chosen king. 1374 Petrarch, one of the earliest, as well as the most elegant among the Italian poets, whose romantic attachment to the beautiful Laura has rendered his name familiar even to those who are wholly ignorant of Italian literature, was found dead in his Library on the 17th anniversary of his birth. 1796. Lol. Be the 18th compelled to leave the army of the emigrants and place himself in the hands of the Austrians. 1812 A Treaty of peace between England and Sweden was signed at a arabo. 
+
 Friday 19th. 
+
 365 BC Rome was taken in pillaged by the gals who put to the sword. The senator is an old man who alone. Remained in the city. 64 Nero. For his amusement caused Rome to be set on fire in various places. This conflagration was attributed by him to the Christians and all who cannot escape or conceal themselves or put to death with the most cruel torments. Among others, Saint Peter and Saint Paul suffered martyrdom. 1333 The Battle of Halidon Hill, in which the Scots were defeated by Edward the Third. 1588 The Spanish Armada arrived in the British Channel. This formidable fleet consists of 130 vessels carrying 2630 pieces of brass cannon. It was fitted out by Philip the Second of Spain, and blessed by his special nuncio from the Pope. Its approach spread terror and dismay, but Elizabeth took advantage of the panic to excite her subjects to defend their country and without draining her ex Chequer and while the nobles and citizens fitted out ships at their own charge, the low. Orders flocked to man the vessels and defend the coasts. The Armada, however, was dispersed by a Tempest in Wasteland Disorder, attacked by the English under Lord Effingham, and compelled to seek safety in flight. 
+
 Saturday 20th. 
+
 1620 A massacre of the Protestants in the Valta Line, a fertile valley of Switzerland. 1819, Died at Edinburgh. John Playfair is celebrated mathematician and geographer 
+
 Sunday 21st. 
+
 7th Sunday after Trinity. 1403 Battle of Shrewsbury And this engagement to Prince of Wales afterwards, Henry the Fifth made his first essay in arms. The death of Henry Percy, better known as Hotspur, made this battle still more memorable. 1683 The execution of Lord Russell for high treason took place in Lincoln's Inn Fields, seventeen O 4, Taking of Gibraltar by the English. 1796, died at Dumfries in his 38th year. Robert Burns the poet. 
 
 ______
@@ -173,6 +188,7 @@ Few countries have ever been visited by such a series of misfortunes as this. An
 _____
 The Mocking-Bird 
 (_Abridged from Wilson's 'American Ornithology'._)
+
 This celebrated in very extraordinary bird, which in extent and variety of vocal powers stands unrivalled by the whole feathered songsters of America, or perhaps any other country, is peculiar to the New World and inhabits the very considerable extent of both North and South America. Having been traced from the states of New England to Brazil, and also among many of the adjacent islands, they are, however, much more numerous in those states S than those north of the river Delaware, being generally migratory in the latter and resident at least many of them in the former a warm climate and. The country, not far from the sea, seems most congenial to their nature. The species are accordingly found to be less numerous the West than east of the great range of Allegheny, in the same parallels of latitude in these regions, the berries of the red cedar Myrtle holly. Many species of Smilax, together with gum berries, gall berries in a profuse variety of others abound and furnish them with a perpetual feast. Wind insects also, of which they are very fond and very expert in catching, are there plentiful even in the winter season.
 
 The precise time at which the mockingbird  Begins to build his nest varies according to the latitude in which he resides from the beginning of April to the middle of May. there are particular situations in which he gives the preference a solitary thorn bush an almost
@@ -204,6 +220,7 @@ _____
 #### Third Page, Left Column, Below Image
 A Well-Conducted Factory 
 (_From a Correspondent._) 
+
 The general tenor of the evidence given before the factory commissioners goes to show that although there may be great abuses in many establishments in which children are employed, extensive factories may and do exist, or the light spirits of youth are still buoyant and. Spoken by undue labor and restraint or the industry of the young that only contributes to the increase of our national wealth, but also to their own advantage, In many factories they are not only usefully employed, but at the same time are trained up in those habits of morality and good feeling which are most likely to ensure their own lasting happiness and to make them valuable members of society. 
 
 We have recently returned from visiting many such factories and among the rest that have Mr. John Wood Junior, a stuff manufacturer of Bradford in Yorkshire. We think that it may do some good in two ways. If we give a very slight sketch of what we there saw, Such an outline may serve to correct some of the prejudices which exist in the subject of factories, generally amongst those who have never visited the seats of our great manufacturers. While those masters, we hope they are but few who look only into the accumulation of money by the employment of children, may take shame to themselves when they find that the same object may be attained without injury to their health or morals. 
