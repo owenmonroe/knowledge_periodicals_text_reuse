@@ -9,7 +9,7 @@ This page features transcripts of the text from source images presented in the [
 <br/><br/> 
 
 ## Rooks in _The Saturday Magazine_, 1832
-### The following transcript is of the entire text of the full page of _The Saturday Magazine_ August 11, 1832, issue, including the article "Evening Proceeding of the Rooks."
+### The following transcript is of the entire text of the full page of _The Saturday Magazine_ August 11, 1832, issue, including the article "Evening Proceeding of the Rooks." This page uses derogatory and oppressive language to refer to African people in the article, "Mungo Park in the Desert."
 
 #### Left Column
 
