@@ -130,7 +130,8 @@ Worcester... Deightton.
 
 _____
 C. Richards Printer, 100, St. Martin's Lane, Charing Cross
-<br/><br/> 
+
+<br/><br/><br/>
 
 
 ## Rooks in _The Saturday Magazine_, 1835
@@ -170,7 +171,8 @@ There are several traits peculiar to this goat. It is a graceful and beautifully
 Though Cuvier asserts that there are several races of the shawl goat which chiefly differ, according to his account in the length of the ears, yet he says they all produce the same wool, and seems to signify that there is no distinction of quality. He ascribes the fineness of their wool to the influence of the climate. Which? 
 
 * See Saturda Magazine Vol. V., p. 143.
-<br/><br/>
+
+<br/><br/><br/>
 
 
 ## Rooks in _The Penny Magazine_, 1838
