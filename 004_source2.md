@@ -8,7 +8,8 @@ number: 004
 # Section 2 Sources: Caterpillar Lace
 
 The following images are pages that include articles on caterpillar lace from _The Penny Magazine_, _The Saturday Magazine_, and _Chambers's Edninburgh Journal_. Transcripts of these pages are presented in the following page of this edition, "Section 2 Transcripts: Caterpillar Lace."
-<br/><br/>
+
+<br/><br/><br/>
 
 
 ## Lace Made by Caterpillars in _The Penny Magazine_
@@ -21,7 +22,8 @@ where_exp: "item", "item.page == 'source2'" | where_exp: "item",
 %}
 {% include media.html pages=caterpillar_penny_1 %}
 
-<br/><br/>
+<br/><br/><br/>
+
 
 
 ## Lace Made by Caterpillars in _The Saturday Magazine_
@@ -33,7 +35,7 @@ where_exp: "item", "item.page == 'source2'" | where_exp: "item",
 %}
 {% include media.html pages=caterpillar_saturday_2 %}
 
-<br/><br/>
+<br/><br/><br/>
 
 
 ## Lace Made by Caterpillars in _Chambers's Edinburgh Journal_
