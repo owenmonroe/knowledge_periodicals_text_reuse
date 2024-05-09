@@ -36,18 +36,31 @@ ____
 The Lord's Day. 
 
 Hail to the day which He who made the heavens, 
+
 Earth, and their armies sanctified and blest,
+
 Perpetual memory of the Maker's rest!
+
 Hail to the day when He by whom was given 
+
 New life to man, the tomb asunder riven 
+
 Arose! That day, his Church hath still confest
+
 At once Creation's and redemption's feast, 
+
 Sign of a world call'd forth a world forgiven. 
+
 Welcome that day the day of holy peace, 
+
 The Lord's own day! to man's Creator owed, 
+
 And man's Redeemer; for the soul's increase 
+
 In sanctity, and the sweet repose bestowed;
+
 Type of the rest when sin and care shall cease,
+
 The rest remaining for the lov'd of God! 
 
 ____
@@ -66,37 +79,62 @@ John William Parker, 445 (West) Strand.
 Sold by all booksellers and news vendors in the Kingdom, hawkers and dealers in the periodical publications. Supplied on wholesale terms by WS or Paternoster, Row, G Burger, Holywell Street, London, and by the publishers agent in the following places. 
 
 Aberdeen... Brown and Co. 
+
 Bath... George. 
+
 Birmingham... Langbridge. 
+
 Bristol... Wesley and Co. 
+
 Cambridge... Stevenson 
+
 Carlisle... Thurnham.
+
 Chelmsford... Guy 
+
 Colchester... Swinborne & Co.
+
 Derby... Wilkins and Son 
+
 Dublin... Curry Jun. & Co, 
+
 Dundee... Shaw. 
+
 Edinburgh... Oliver and Boyd.
+
 Exeter... Penny and Co. 
+
 Glasgow... Griffin and Co. 
+
 Hull... Wilson. 
+
 Lancashire and Cheshire... Banks and Co. Manchester. 
+
 Leeds... Robinson. 
+
 Leicester... Combe. 
+
 Liverpool... Hughes. 
+
 Newcastle-on-Tyne... Finlay & Charlton; Empson. 
+
 Nottingham... Wright
+
 Oxford... Slatter. 
+
 Sheffield... Ridge. 
+
 Shrewsbury... Eddowes. 
+
 Worcester... Deightton. 
+
 _____
 C. Richards Printer, 100, St. Martin's Lane, Charing Cross
 <br/><br/> 
 
 
 ## Rooks in _The Saturday Magazine_, 1835
-### The following transcript is of the entire text of the full page of _The Saturday Magazine_ July 25, 1835, issue, including the article  on the "evening proceedings and manoeuvres of the Rooks."
+### The following transcript is of the entire text of the full page of _The Saturday Magazine_ July 25, 1835, issue, including the article  on the "evening proceedings and manoeuvres of the rooks."
 
 #### Left Column
 
@@ -119,7 +157,7 @@ There are two books from which I collect my divinity, the 1 written of God, the 
 
 The Tibet Goat. 
  
-Of all the domestic goats, this is the most valuable from the material which it furnishes for the production of those elegant shawls manufactured in the valley of Kashmir and its immediate vicinity. Few goats of this species have been seen in Europe, most probably from the difficulty of preserving their lives through the various changes of climate to which they must be exposed, and a journey from the bleak mountains of Tibet to the shores of countries so far distant from their own climb. They are by no means hearty animals when taken from their native hills, but soon pine and die if not attended to with extreme care. In the vessels in which the writer of this article returned from India, there were six of these animals, intended as a present for Her Majesty Queen Charlotte of England. But they all died during the passage. 
+Of all the domestic goats, this is the most valuable from the material which it furnishes for the production of those elegant shawls manufactured in the valley of Kashmir and its immediate vicinity. Few goats of this species have been seen in Europe, most probably from the difficulty of preserving their lives through the various changes of climate to which they must be exposed, and a journey from the bleak mountains of Tibet to the shores of countries so far distant from their own climb. They are by no means hearty animals when taken from their native hills, but soon pine and die if not attended to with extreme care. In the vessels in which the writer of this article returned from India, there were six of these animals, intended as a present for Her Majesty Queen Charlotte of England, but they all died during the passage. 
 
 The shawl goat is small. None of those just referred to much exceed 2 feet in height. In confirmation of this I give the proportion set down by MF Cuvier. It is of moderate stature, being 2 feet high to the Withers, and its length from the snout to the inosculation of the tail, about two feet 10 inches. Its head from the tip of the snout between the horns is 9 inches, and its tail 5. Like the yak already described*, these goats are covered with long, fine hair, reaching nearly to the ground and almost entirely concealing their legs, which gives an ungainly appearance to their movements except when they gamble about their native mountains. They are indeed Beautiful Creatures. The long WAVY hair undulating over their bodies or raised by their eccentric motions gives grace to every attitude. Their hair waves slightly, but is not crisped like that of the Angola goats upon the head and neck. The coat is generally black, but white on every other part of the body, though it is sometimes all white and occasionally of a very pale grey. 
 
@@ -164,7 +202,6 @@ pairs thus formed, new rookeries date their birth. The following anecdote from B
 
 being finished when the hens begin to lay the cocks feed them. Who says Mr. White receive their bounty with a fondling tremulous voice and fluttering wings, and all the little bandish comments that are expressed by the young will and the helpless state. The gallant deportment of the males is continued through the whole season of incubation. The nests are not very warmly lined, although in so exposed situation. But the hen sit constantly to protect their young from the cold in the Romans of the parent bird for food should he fall beneath the murderous gun. Doubtless the other rooks attend with kindly solicitude to their wants. Though not eminent for its musical capabilities, Mr. White says rooks in the breeding season will sometimes, in the gayety of their hearts, attempts to sing both different success. The female lays four or five eggs. When the young are sufficiently strong. Their education begins by the parents flying repeatedly to and fro between the nest and some near branch, calling at the same time in a language we may easily translate. See how easy it is? Doubtfully and with the kind of mental head shake, we may imagine the young ones to look on, but at last the thing really appears so easy they must they will try. A preparatory flutter on the edge of the nest in the branches reached the feet is accomplished, and before long, round and round it goes. Giddy with delight at the new power it has obtained and is enjoying, they now began to find their own food when they no longer need assistance from their parents. They are dismissed to shift for themselves, and old bird has been seen to buffet heartily a young one who, being perhaps too lazy to forage for itself, wish to impose on the parental good nature. It is the love of the Rook for its young, a marked trait in its character. When seeking food for them, it will, if unsuccessful in the day, still persevere until it has obtained its object, though there are times when all its endeavours are in vain. In the hot summer of 1825, says Mr. Knapp, many of the young brood of this season perished from want. The mornings were without due and consequently fewer. No worms were to be obtained and we found them dead under the trees. Having expired on their rootings, it was particularly distressing, for no relief could be given to hear the constant clamour and importunity of the young for food. The old birds seemed to suffer without complaint. But the wants of their offspring were expressed by the unceasing cry of hunger and pursuit of the parents. First supply in our fields were scenes of daily restlessness and lament. Mr. Jesse observes that at the time when the young ones are shot according to the common annual custom, it is melancholy to watch the old birds sit apart on the neighboring trees, waiting until the sport is over, and then he returned to their young. If there be any left for them to return to after the young have fully taken wing, there is a general desertion of the Rookery until October, when the rooks returned for a short time, perhaps to examine their nests, and then again remove for the winter. 
 
-
 The character of this most clear. Triple looking of birds, with its glossiest of coats and its gravest of aspects, has stood generally below, and particularly so in the estimation of one person at least, who from his position ought to have been qualified to judge more correctly. In Doctor Reese's Cyclopedia, it is said there are everywhere in many of the northern and other counties of the Kingdom, numbers of such detestable nurseries of these mischievous and rapacious vermin, etcetera. Again, though, rooks fly from his despicable abodes, etcetera, and the whole notice is written in the same spirit. The personal spite of the epithet applied to the poor bird's nest is so inexpressibly ludicrous that one can scarcely speak of the ignorant and bad feeling of the writer in the terms they deserve. And what is it? The Rook does summarize such reckless denunciations? When the young wheat is germinating, if it can find no other food, it does what all of 
 
 #### Page 2, Right Column
@@ -188,8 +225,7 @@ In contrast to the quotation from Doctor Reese's work, we will conclude with a s
 _____
 Notices of the Month.  
 
-
-February 2 Candle Miss Day, so-called from the ancient customs of carrying lights and procession in honor of the Feast of the Purification of the Virgin Mary, celebrated by the Romish Church. On this day, on Candlemas Day, the Rosemary, mistletoe and other elements of the Merry Christmas times were. Moved from the halls and windows of our ancestors and the Christmas brand, to which allusion has been made in volume seven, page 439, having been lighted in a loud sub. Turn until sunset was then quenched and preserved for the succeeding year. 
+February 2, Candlemass Day, so-called from the ancient customs of carrying lights and procession in honor of the Feast of the Purification of the Virgin Mary, celebrated by the Romish Church. On this day, on Candlemas Day, the Rosemary, mistletoe and other elements of the Merry Christmas times were. Moved from the halls and windows of our ancestors and the Christmas brand, to which allusion has been made in volume seven, page 439, having been lighted in a loud sub. Turn until sunset was then quenched and preserved for the succeeding year. 
 
 Shrove tide was, in olden times a season of much feasting and supportiveness, in which the people indulged in order to console them for the fasts and mortifications of the ensuing Lent. A kindred spirit to the author of the Anatomy of Alms, stubs, seized with a sudden frenzy of alliteration, has personified Shrove Tuesday as "sole monarch of the month, high Stewards to the stomach. First they refer it to the frying pans greatest Bashar to the batter bowls protector to the pancakes first founder of the fritters. Baron of Bacon Flitch, Earl of Egg Baskets and for egg. Magnificent conclusion. The most corpulent commander of those Cholleriche things called Cookes."* The disgusting practice of beating and throwing at cocks, which was formerly a favorite pastime with the English of of this time, is now, we are happy 
 
