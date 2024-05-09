@@ -5,7 +5,7 @@ number: 003
 ---
 
 # Section 1 Transcripts: The Mocking Bird
-This page features transcripts of the text from sources images presented in the "Section 1 Sources: The Mocking Bird" page of this edition. Reprinted text is in ***bold and italics***.
+This page features transcripts of the text from sources images presented in the ["Section 1 Sources: The Mocking Bird"](https://owenmonroe.github.io/knowledge_periodicals_text_reuse/002_source1.html) page of this edition. Reprinted text is in ***bold and italics***.
 <br/><br/><br/>
 
 
