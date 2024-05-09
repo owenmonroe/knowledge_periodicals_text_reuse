@@ -6,6 +6,7 @@ number: 005
 
 # Section 2 Transcripts: Caterpillar Lace
 This page features transcripts of the text from sources images presented in the "Section 2 Sources: Caterpillar" page of this edition. Reprinted text is in ***bold and italics***
+<br/><br/> 
 
 ## Caterpillar Lace in _The Penny Magazine_
 ### The following transcript is of the entire text of the two full pages of _The Penny Magazine_ June 30, 1832, issue, including the article "Lace Made By Caterpillars."
@@ -41,7 +42,7 @@ The female Puma and the Society's gardens brought forth two young ones on the 2n
 
 #### Left Column
 
-CRAIGMILLAR CASTLE.
+Craigmillar Castle.
 
 This beautiful ruin is situated about 3 miles to the southward of Edinburgh. It stands on a circular, Rocky Hill and commands an extensive prospect on every side comprehending the city of Edinburgh. The distant mountains of the Highlands and the fine arm of the sea called the Firth of Forth. The front of the building is towards the north. Over one of the doors is a car is carved a press and a cask in illusion. It is believed the name of Preston. It was surrounded by a thick rampart, 30 feet high, with parapets and turrets of which considerable part. Means there is an inner court of considerable extent, and there is also a very large outer court on the West side, of which there was erected a Presbyterian meetinghouse in Consequences of the indulgence granted to that persuasion by James the 7th of Scotland. The period. In this castle was built, is not ascertained, which probably arises from the records and other papers they public, Nature respecting Scotland, being lost in their conveyance by sea from London to Edinburgh, when, after having been carried by Cromwell, they were ordered to be restored by Charles the 2nd. But the Rampart, as appears by the inscription upon the gate, was built in 1427. 
 
@@ -59,7 +60,8 @@ Almost all useful discoveries have been made, not by the brilliancy of genius, b
 ***Lace Made By Caterpillars.-- A most extraordinary species of manufacture has been contrived by an officer of engineers residing at Munich. It consists of lace and veils with open patterns in them, made entirely by caterpillars. The following is the mode of preceding adopted having made a pace of the leaves of the plant on which the species of Caterpillar he employs feeds, he spreads it thinly over a stone or other flat sub. Instance of the required size. He then, with a camel hair pencil dipped in olive oil, draws the pattern he wishes the insects to leave open. The stone is then placed in an inclined position and a considerable number of the caterpillars are placed at the bottom. A peculiar species is chosen which spins a strong web in. The animals commence at the bottom, eating and spinning their way up to the top, carefully avoiding every part touched by the oil. But devouring every other part of the paste, the extreme lightness of the veils, combined with some strength, is truly surprising. One of them, measuring 26 1/2 by 17 inches, weighed only a grain in the half, a degree of lightness which will appear more strongly by contrast with other fabrics. One square yard of the sub. Sentence of which these veils are made ways four and the third grains, whilst 1 square yard of silk gauze weighs 137 grains and one. Square yard of the finest net weighs 262 1/2 grains.*** 
  
 _____
-GRATITUDE AND INGRATITUDE
+Gratitude and Ingratitude
+
 Gratitude is a virtue disposing the minds to an inward sense, and an outward acknowledgement that benefit received together with a readiness to return the same or the like, as occasions of the doer of it shall require, and the abilities of the receiver extends to. In gratitude is an insensibility of kindness received without any endeavor either to acknowledge or repay them. In gratitude, citizens throne with pride at its right hand and cruelty at its left. Were these supporters of such a state? You may rest upon this as an unfailing truth that they're neither is nor ever was any person or. Remarkably ungrateful who is not so. He was not also insufferably proud, nor anyone proud who is not equally ungrateful new paragraph In gratitude overlooks all kindnesses, and this is because pride makes it carry its head so high. In gratitude is two base to return a kindness, and too proud to regard it, much like the tops of mountains, buried indeed, but yet lofty, they produce nothing. They feed nobody, they clothe nobody, yet are high in stately, and looked down upon all the world about them. It was ingratitude which put the poniard into Brutus's hand, but it was want of compassion which thrust it into Caesar's heart. Friendship consists properly in mutual offices and a generous strife and alternate acts of kindness. But he who does a kindness, Who ungrateful person sets his seal to a Flint? And sows his seed upon the sand. Upon the former he makes no impression, and from the latter he finds no production. Doctor South 
 
 This Saturday Magazine No. XVI. Being the Supplement for September,
@@ -69,6 +71,7 @@ The monthly part for September, Price 6d.
 Including the supplement. 
 
 London:
+
 JOHN WILLIAM PARKER, 445. (WEST) STRAND.
 Sold by all Booksellers and Newsvendors in the Kingdom. Hawkers and Dealers in Periodical Publications supplied on wholesale terms by WS ORR Pasternoster-Row G. BERGER Holywell, St. A DOUGLAS, 27, Portman St. Portman Sq. London,
 And by the Publisher's Agents in the following places:-
@@ -110,9 +113,10 @@ Shrewsbury... Eddowes.
 Sunderland... Marwood
 Whitby... Rogers. 
 Worcester... DeightonSee 
+
 _____
 C. Richards, Printer, 100 St. Martins Lane, Charing Cross. 
-
+<br/><br/> 
 
 
 ## Caterpillar Lace in _Chambers's Edinburgh Journal_
