@@ -6,7 +6,8 @@ number: 005
 
 # Section 2 Transcripts: Caterpillar Lace
 This page features transcripts of the text from sources images presented in the "Section 2 Sources: Caterpillar" page of this edition. Reprinted text is in ***bold and italics***.
-<br/><br/> 
+<br/><br/><br/>
+
 
 ## Caterpillar Lace in _The Penny Magazine_
 ### The following transcript is of the entire text of the two full pages of _The Penny Magazine_ June 30, 1832, issue, including the article "Lace Made By Caterpillars."
@@ -153,7 +154,8 @@ Worcester... DeightonSee
 
 _____
 C. Richards, Printer, 100 St. Martins Lane, Charing Cross. 
-<br/><br/> 
+
+<br/><br/><br/> 
 
 
 ## Caterpillar Lace in _Chambers's Edinburgh Journal_
