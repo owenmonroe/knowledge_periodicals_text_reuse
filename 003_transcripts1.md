@@ -23,12 +23,14 @@ Such being the consequences of the traffic and ardent spirits, as proved by inco
 
 ______
 In most quarrels there is a fault on both sides. A quarrel may be compared to a spark, which cannot be produced without a flint, as well as a steel; either of them may hammer on wood for ever, no fire will follow. 
+
 ______
 Learn of the little Nautilus to sail, 
 spread the thin oar, and catch the driving gale. -- Pope. 
 To this little fish we are said to be indebted for one of the grandest and most useful inventions since the world began. It is thus described. It swims on the surface of the sea, on the back of its shell, which exactly resembles the whole of a ship, erases 2 feet like masts, and extends A membrane between which serves as a sail. The other two feet are employed as oars. This fish is usually found in the Mediterranean. 
 
 #### First Page, Right Column
+
 A Devonshire sketch by the late Reverend John Marriott of Broadclyst. 
 
 Ye, grain hills of Devon. I love to look o'er ye;
@@ -135,7 +137,7 @@ Tuesday, 16th.
 
 622 On this day the flight of the impostor Mohammed from Mecca took place. In from it, his followers date the event of their history. The epoch is called from the Arabic world, which signifies to fly or to leave one's country, the Hegira. 
 
-1377. Richard, the second only child of Edward the Black Prince, was crowned at Westminster. He did not inherit the warlike genius or the talent of his father and grandfather, but seems to have been of a mild, amiable disposition, and may truly be said, in the words of Shakespeare, to have been a man more sinned against than sinning. 1546 and a skew A young lady of great merit and beauty, connected with most of the ladies of the court and with the Queen. Catherine Parr was burned at Smithfield for denying the doctrine of the Real Presence.
+1377 Richard II, only child of Edward the Black Prince, was crowned at Westminster. He did not inherit the warlike genius or the talent of his father and grandfather, but seems to have been of a mild, amiable disposition, and may truly be said, in the words of Shakespeare, to have been a man more sinned against than sinning. 1546 and a skew A young lady of great merit and beauty, connected with most of the ladies of the court and with the Queen. Catherine Parr was burned at Smithfield for denying the doctrine of the Real Presence.
 
 1800 Died at his seat near Southampton. Brian Edwards the author of The History of the West Indies. 
 
@@ -265,6 +267,7 @@ We have recently returned from visiting many such factories and among the rest t
 In the manufactory of Mr. Wood about 600 persons, principally girls, are employed. When we 
 
 #### Third Page, Right Column, Below Image
+
 arrived it was the hour allotted to dinner and recreation and the young people were joyously sporting in the open yard of the factory like children out of school after witnessing for some time. This scene of unrestrained freedom from toil the period. For renewed industry arrived and we were ushered into the mill. This we found as. In as light and as comfortable as a drawing room, or rather as a series of drawing rooms, for there are several floors filled with machinery. The children, in resuming their work, who had not lost their cheerful look, but said about their tasks in a manner which proved that these were anything but irksome to them. Seats are provided for the accommodation of the young folks when they are not actually employed, which state of leisure from the nature of their occupation very frequently occurs. The little work people seems quite delighted to see their employer. Their faces brightened up and their eyes sparkled as he came near and spoke to them. Indeed, he appeared to be more like a father among them, and an affectionate one too, than like a master patting them on the head, chucking them under the chin and addressing them according to their ages. 
 
 There is always a surplus number of children in the mill, in order that they may be sent by installments to a schoolroom on the premises, or they learned to knit and to sew as well as to read and to write. The reason given by their benevolent employer for having them taught knitting and needlework shows how mindful he is of their welfare. He had found that when girls who had been employed from an early age in a mill. 
